@@ -1,0 +1,17 @@
+name: 'Ethreain Nex'
+race: 'Aasimar (Peri-Blooded)'
+favored_class: 'Oracle'
+alignment: 'True Neutral'
+
+hp: 11
+
+classes:
+  wizard: 2
+
+ability_scores:
+  strength: 10
+  dexterity: 13
+  constitution: 13
+  intelligence: 16
+  wisdom: 12
+  charisma: 17
