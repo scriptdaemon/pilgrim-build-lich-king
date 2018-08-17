@@ -1,0 +1,29 @@
+knowledge_arcana:
+  class: true
+  ability: 'intelligence'
+  ranks: 1
+
+knowledge_local:
+  class: true
+  ability: 'intelligence'
+  ranks: 1
+
+knowledge_nobility:
+  class: true
+  ability: 'intelligence'
+  ranks: 1
+
+knowledge_religion:
+  class: true
+  ability: 'intelligence'
+  ranks: 1
+
+perception:
+  class: true
+  ability: 'wisdom'
+  ranks: 1
+
+spellcraft:
+  class: true
+  ability: 'intelligence'
+  ranks: 1
