@@ -19,7 +19,7 @@ knowledge_religion:
   ranks: 1
 
 perception:
-  class: true
+  class: false
   ability: 'wisdom'
   ranks: 1
 
