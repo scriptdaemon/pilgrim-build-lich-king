@@ -1,0 +1,51 @@
+arcane:
+  # Conjuration
+  # Level 0
+  - name: "Acid Splash"         # Starting Spell
+  # Level 1
+  - name: "Grease"              # Starting Spell
+  - name: "Mage Armor"          # Starting Spell
+
+  # Divination
+  # Level 0
+  - name: "Detect Magic"        # Starting Spell
+  - name: "Detect Poison"       # Starting Spell
+  - name: "Read Magic"          # Starting Spell
+
+  # Evocation
+  # Level 0
+  - name: "Dancing Lights"      # Starting Spell
+  - name: "Flare"               # Starting Spell
+  - name: "Light"               # Starting Spell
+  - name: "Ray of Frost"        # Starting Spell
+  # Level 1
+  - name: "Magic Missile"       # Starting Spell
+
+  # Illusion
+  # Level 0
+  - name: "Ghost Sound"         # Starting Spell
+  # Level 1
+  - name: "Color Spray"         # Starting Spell
+
+  # Necromancy
+  # Level 0
+  - name: "Bleed"               # Starting Spell
+  - name: "Disrupt Undead"      # Starting Spell
+  - name: "Touch of Fatigue"    # Starting Spell
+  # Level 1
+  - name: "Ray of Enfeeblement" # Starting Spell
+
+  # Transmutation
+  # Level 0
+  - name: "Mage Hand"           # Starting Spell
+  - name: "Mending"             # Starting Spell
+  - name: "Message"             # Starting Spell
+  - name: "Open/Close"          # Starting Spell
+  # Level 1
+  - name: "Blood Money"         # Starting Spell
+  - name: "Enlarge Person"      # Starting Spell
+
+  # Universal
+  # Level 0
+  - name: "Arcane Mark"         # Starting Spell
+  - name: "Prestidigitation"    # Starting Spell
