@@ -1,5 +1,5 @@
 name: 'Ethreain Nex'
-race: 'Aasimar (Peri-Blooded)'
+race: 'Human'
 favored_class: 'Oracle'
 alignment: 'True Neutral'
 
@@ -10,9 +10,17 @@ classes:
   wizard: 3
 
 ability_scores:
-  strength: 10
-  dexterity: 13
-  constitution: 13
-  intelligence: 16
-  wisdom: 12
-  charisma: 17
+  strength: 10      # Base
+  dexterity: 13     # Base
+  constitution: 13  # Base
+  intelligence: 20  # Base + Racial Trait
+  wisdom: 12        # Base
+  charisma: 16      # Base
+
+languages:
+ - 'Common'         # Racial Trait
+ - 'Draconic'       # Intelligence Modifier
+ - 'Dwarven'        # Intelligence Modifier
+ - 'Elven'          # Intelligence Modifier
+ - 'Necril'         # Intelligence Modifier
+ - 'Sylvan'         # Intelligence Modifier

@@ -23,6 +23,11 @@ perception:
   ability: 'wisdom'
   ranks: 1
 
+ride:
+  class: false
+  ability: 'dexterity'
+  ranks: 1
+
 spellcraft:
   class: true
   ability: 'intelligence'
