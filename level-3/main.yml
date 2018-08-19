@@ -12,12 +12,12 @@ ability_scores:
   strength: 10      # Base
   dexterity: 13     # Base
   constitution: 13  # Base
-  intelligence: 19  # Base + Racial Trait
+  intelligence: 19  # Base + Racial Bonus
   wisdom: 12        # Base
   charisma: 16      # Base
 
 languages:
- - 'Common'         # Racial Trait
+ - 'Common'         # Standard Racial Trait
  - 'Draconic'       # Intelligence Modifier
  - 'Dwarven'        # Intelligence Modifier
  - 'Elven'          # Intelligence Modifier
