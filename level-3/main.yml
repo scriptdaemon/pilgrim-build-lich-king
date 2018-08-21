@@ -1,7 +1,7 @@
-name: 'Ethreain Nex'
-race: 'Human'
-favored_class: 'Oracle'
-alignment: 'True Neutral'
+name: "Ethreain Nex"
+race: "Human"
+favored_class: "Oracle"
+alignment: "True Neutral"
 
 hp: 18
 
@@ -9,16 +9,16 @@ classes:
   wizard: 3
 
 ability_scores:
-  strength: 10      # Base
-  dexterity: 13     # Base
-  constitution: 13  # Base
-  intelligence: 19  # Base + Racial Bonus
-  wisdom: 12        # Base
-  charisma: 16      # Base
+  strength: 10
+  dexterity: 13
+  constitution: 13
+  intelligence: 19   # +2 Racial Bonus
+  wisdom: 12
+  charisma: 16
 
 languages:
-  - 'Common'         # Standard Racial Trait
-  - 'Draconic'       # Intelligence Modifier
-  - 'Elven'          # Intelligence Modifier
-  - 'Sylvan'         # Intelligence Modifier
-  - 'Undercommon'    # Intelligence Modifier
+  - "Common"         # Racial Trait
+  - "Draconic"       # +4 Intelligence Modifier
+  - "Elven"          # +4 Intelligence Modifier
+  - "Sylvan"         # +4 Intelligence Modifier
+  - "Undercommon"    # +4 Intelligence Modifier
