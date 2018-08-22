@@ -1,53 +1,53 @@
 arcane:
   # Conjuration
   # Level 0
-  - name: "Acid Splash"         # Starting Spell
+  - name: "Acid Splash"         # Wizard Level 1
   # Level 1
-  - name: "Grease"              # Starting Spell
-  - name: "Mage Armor"          # Starting Spell
-  - name: "Unseen Servant"      # Wizard Level 1
+  - name: "Grease"              # Wizard Level 1
+  - name: "Mage Armor"          # Wizard Level 1
+  - name: "Unseen Servant"      # Wizard Level 2
 
   # Divination
   # Level 0
-  - name: "Detect Magic"        # Starting Spell
-  - name: "Detect Poison"       # Starting Spell
-  - name: "Read Magic"          # Starting Spell
+  - name: "Detect Magic"        # Wizard Level 1
+  - name: "Detect Poison"       # Wizard Level 1
+  - name: "Read Magic"          # Wizard Level 1
 
   # Evocation
   # Level 0
-  - name: "Dancing Lights"      # Starting Spell
-  - name: "Flare"               # Starting Spell
-  - name: "Light"               # Starting Spell
-  - name: "Ray of Frost"        # Starting Spell
+  - name: "Dancing Lights"      # Wizard Level 1
+  - name: "Flare"               # Wizard Level 1
+  - name: "Light"               # Wizard Level 1
+  - name: "Ray of Frost"        # Wizard Level 1
   # Level 1
-  - name: "Magic Missile"       # Starting Spell
+  - name: "Magic Missile"       # Wizard Level 1
 
   # Illusion
   # Level 0
-  - name: "Ghost Sound"         # Starting Spell
+  - name: "Ghost Sound"         # Wizard Level 1
   # Level 1
-  - name: "Color Spray"         # Starting Spell
-  - name: "Silent Image"        # Wizard Level 1
+  - name: "Color Spray"         # Wizard Level 1
+  - name: "Silent Image"        # Wizard Level 2
 
   # Necromancy
   # Level 0
-  - name: "Bleed"               # Starting Spell
-  - name: "Disrupt Undead"      # Starting Spell
-  - name: "Touch of Fatigue"    # Starting Spell
+  - name: "Bleed"               # Wizard Level 1
+  - name: "Disrupt Undead"      # Wizard Level 1
+  - name: "Touch of Fatigue"    # Wizard Level 1
   # Level 1
-  - name: "Ray of Enfeeblement" # Starting Spell
+  - name: "Ray of Enfeeblement" # Wizard Level 1
 
   # Transmutation
   # Level 0
-  - name: "Mage Hand"           # Starting Spell
-  - name: "Mending"             # Starting Spell
-  - name: "Message"             # Starting Spell
-  - name: "Open/Close"          # Starting Spell
+  - name: "Mage Hand"           # Wizard Level 1
+  - name: "Mending"             # Wizard Level 1
+  - name: "Message"             # Wizard Level 1
+  - name: "Open/Close"          # Wizard Level 1
   # Level 1
-  - name: "Blood Money"         # Starting Spell
-  - name: "Enlarge Person"      # Starting Spell
+  - name: "Blood Money"         # Wizard Level 1
+  - name: "Enlarge Person"      # Wizard Level 1
 
   # Universal
   # Level 0
-  - name: "Arcane Mark"         # Starting Spell
-  - name: "Prestidigitation"    # Starting Spell
+  - name: "Arcane Mark"         # Wizard Level 1
+  - name: "Prestidigitation"    # Wizard Level 1
