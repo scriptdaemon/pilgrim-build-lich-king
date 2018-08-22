@@ -1,0 +1,26 @@
+name: "Ethreain Nex"
+race: "Human"
+favored_class: "Oracle"
+alignment: "Lawful Neutral"
+
+hp: 35
+
+classes:
+  oracle: 4
+  wizard: 3
+
+ability_scores:
+  strength: 10
+  dexterity: 13
+  constitution: 13
+  intelligence: 20   # +1 Character Advancement / +2 Racial Bonus
+  wisdom: 12
+  charisma: 16
+
+languages:
+  - "Common"         # Racial Trait
+  - "Draconic"       # +5 Intelligence Modifier
+  - "Elven"          # +5 Intelligence Modifier
+  - "Necril"         # +5 Intelligence Modifier
+  - "Sylvan"         # +5 Intelligence Modifier
+  - "Undercommon"    # +5 Intelligence Modifier
