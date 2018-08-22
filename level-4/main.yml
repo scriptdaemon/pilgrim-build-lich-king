@@ -3,7 +3,7 @@ race: "Human"
 favored_class: "Oracle"
 alignment: "Lawful Neutral"
 
-hp: 23
+hp: 19
 
 classes:
   oracle: 1

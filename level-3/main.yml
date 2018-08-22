@@ -3,7 +3,7 @@ race: "Human"
 favored_class: "Oracle"
 alignment: "True Neutral"
 
-hp: 18
+hp: 15
 
 classes:
   wizard: 3
