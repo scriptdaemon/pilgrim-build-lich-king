@@ -3,6 +3,11 @@ knowledge_arcana:
   ability: 'intelligence'
   ranks: 1
 
+knowledge_history:
+  class: true
+  ability: 'itelligence'
+  ranks: 1
+
 knowledge_local:
   class: true
   ability: 'intelligence'
@@ -21,11 +26,6 @@ knowledge_religion:
 perception:
   class: false
   ability: 'wisdom'
-  ranks: 1
-
-ride:
-  class: false
-  ability: 'dexterity'
   ranks: 1
 
 spellcraft:
