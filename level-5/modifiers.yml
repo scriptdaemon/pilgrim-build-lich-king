@@ -1,0 +1,6 @@
+feats:
+  - name: "Command Undead"              # Power over Undead / Undead Servitude (Su)
+  - name: "Undead Master"               # Character Level 3
+  - name: "Extend Spell"                # Character Level 5
+  - name: "Reach Spell"                 # Character Level 1
+  - name: "Spell Focus (Necromancy)"    # Racial Trait Bonus Feat
