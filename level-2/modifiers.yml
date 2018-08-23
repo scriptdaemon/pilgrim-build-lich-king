@@ -1,4 +1,4 @@
 feats:
-  - name: "Command Undead"              # Power over Undead
+  - name: "Command Undead"              # Power over Undead (Su)
   - name: "Reach Spell"                 # Character Level 1
-  - name: "Spell Focus (Necromancy)"    # Racial Trait Bonus Feat
+  - name: "Spell Focus (Necromancy)"    # Racial Trait (Bonus Feat)
