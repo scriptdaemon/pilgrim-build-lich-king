@@ -3,7 +3,7 @@ race: "Human"
 favored_class: "Oracle"
 alignment: "Lawful Evil"
 
-hp: 49
+hp: 50
 
 classes:
   agent_of_the_grave: 1
