@@ -1,78 +1,131 @@
-arcane:
-  # Conjuration
+#
+# Oracle
+#
+
+  #
   # Level 0
-  - name: "Acid Splash"         # Wizard Level 1
+  #
+
+  # Known Spell
+  - name: "Guidance"
+
+  # Known Spell
+  - name: "Read Magic"
+
+  # Known Spell
+  - name: "Stabilize"
+
+  # Known Spell
+  - name: "Virtue"
+
+  #
   # Level 1
-  - name: "Grease"              # Wizard Level 1
-  - name: "Mage Armor"          # Wizard Level 1
-  - name: "Unseen Servant"      # Wizard Level 2
-  # Level 2
-  - name: "Web"                 # Wizard Level 3
+  #
 
-  # Divination
-  # Level 0
-  - name: "Detect Magic"        # Wizard Level 1
-  - name: "Detect Poison"       # Wizard Level 1
-  - name: "Read Magic"          # Wizard Level 1
+  # Known Spell
+  - name: "Doom"
 
-  # Evocation
+  # "Inflict" Spell
+  - name: "Inflict Light Wounds"
+
+  # Known Spell
+  - name: "Obscuring Mist"
+
+#
+# Wizard
+#
+
+  #
   # Level 0
-  - name: "Dancing Lights"      # Wizard Level 1
-  - name: "Flare"               # Wizard Level 1
-  - name: "Light"               # Wizard Level 1
-  - name: "Ray of Frost"        # Wizard Level 1
+  #
+
+  # Starting Spell
+  - name: "Acid Splash"
+
+  # Starting Spell
+  - name: "Arcane Mark"
+
+  # Starting Spell
+  - name: "Bleed"
+
+  # Starting Spell
+  - name: "Dancing Lights"
+
+  # Starting Spell
+  - name: "Detect Magic"
+
+  # Starting Spell
+  - name: "Detect Poison"
+
+  # Starting Spell
+  - name: "Disrupt Undead"
+
+  # Starting Spell
+  - name: "Flare"
+
+  # Starting Spell
+  - name: "Ghost Sound"
+
+  # Starting Spell
+  - name: "Light"
+
+  # Starting Spell
+  - name: "Mage Hand"
+
+  # Starting Spell
+  - name: "Mending"
+
+  # Starting Spell
+  - name: "Message"
+
+  # Starting Spell
+  - name: "Open/Close"
+
+  # Starting Spell
+  - name: "Prestidigitation"
+
+  # Starting Spell
+  - name: "Ray of Frost"
+
+  # Starting Spell
+  - name: "Read Magic"
+
+  # Starting Spell
+  - name: "Touch of Fatigue"
+
+  #
   # Level 1
-  - name: "Magic Missile"       # Wizard Level 1
+  #
 
-  # Illusion
-  # Level 0
-  - name: "Ghost Sound"         # Wizard Level 1
-  # Level 1
-  - name: "Color Spray"         # Wizard Level 1
-  - name: "Silent Image"        # Wizard Level 2
+  # Starting Spell
+  - name: "Blood Money"
 
-  # Necromancy
-  # Level 0
-  - name: "Bleed"               # Wizard Level 1
-  - name: "Disrupt Undead"      # Wizard Level 1
-  - name: "Touch of Fatigue"    # Wizard Level 1
-  # Level 1
-  - name: "Ray of Enfeeblement" # Wizard Level 1
-  # Level 2
-  - name: "Command Undead"      # Wizard Level 3
+  # Starting Spell
+  - name: "Color Spray"
 
-  # Transmutation
-  # Level 0
-  - name: "Mage Hand"           # Wizard Level 1
-  - name: "Mending"             # Wizard Level 1
-  - name: "Message"             # Wizard Level 1
-  - name: "Open/Close"          # Wizard Level 1
-  # Level 1
-  - name: "Blood Money"         # Wizard Level 1
-  - name: "Enlarge Person"      # Wizard Level 1
+  # Character Advancement
+  - name: "Command Undead"
 
-  # Universal
-  # Level 0
-  - name: "Arcane Mark"         # Wizard Level 1
-  - name: "Prestidigitation"    # Wizard Level 1
+  # Starting Spell
+  - name: "Enlarge Person"
 
-divine:
-  # Conjuration
-  # Level 0
-  - name: "Stabilize"            # Oracle Level 1
-  # Level 1
-  - name: "Obscuring Mist"       # Oracle Level 1
+  # Starting Spell
+  - name: "Grease"
 
-  # Divination
-  # Level 0
-  - name: "Guidance"             # Oracle Level 1
-  - name: "Read Magic"           # Oracle Level 1
+  # Starting Spell
+  - name: "Mage Armor"
 
-  # Necromancy
-  # Level 1
-  - name: "Doom"                 # Oracle Level 1
-  - name: "Inflict Light Wounds" # Oracle Level 1
+  # Starting Spell
+  - name: "Magic Missile"
 
-  # Transmutation
-  # Level 0
-  - name: "Virtue"               # Oracle Level 1
+  # Starting Spell
+  - name: "Ray of Enfeeblement"
+
+  # Character Advancement
+  - name: "Silent Image"
+
+  # Character Advancement
+  - name: "Unseen Servant"
+
+  # Character Advancement
+  - name: "Web"
