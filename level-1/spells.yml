@@ -16,9 +16,6 @@
   - name: "Bleed"
 
   # Starting Spell
-  - name: "Dancing Lights"
-
-  # Starting Spell
   - name: "Detect Magic"
 
   # Starting Spell
@@ -28,13 +25,7 @@
   - name: "Disrupt Undead"
 
   # Starting Spell
-  - name: "Flare"
-
-  # Starting Spell
   - name: "Ghost Sound"
-
-  # Starting Spell
-  - name: "Light"
 
   # Starting Spell
   - name: "Mage Hand"
@@ -52,10 +43,10 @@
   - name: "Prestidigitation"
 
   # Starting Spell
-  - name: "Ray of Frost"
+  - name: "Read Magic"
 
   # Starting Spell
-  - name: "Read Magic"
+  - name: "Resistance"
 
   # Starting Spell
   - name: "Touch of Fatigue"
@@ -68,6 +59,9 @@
   - name: "Blood Money"
 
   # Starting Spell
+  - name: "Cause Fear"
+
+  # Starting Spell
   - name: "Color Spray"
 
   # Starting Spell
@@ -78,9 +72,6 @@
 
   # Starting Spell
   - name: "Mage Armor"
-
-  # Starting Spell
-  - name: "Magic Missile"
 
   # Starting Spell
   - name: "Ray of Enfeeblement"
