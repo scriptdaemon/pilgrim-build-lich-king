@@ -22,3 +22,16 @@
 
   # Character Advancement
   - name: "Undead Master"
+
+#
+# Traits
+#
+
+  # Campaign (Kingmaker)
+  - name: "Bastard"
+
+  # Combat
+  - name: "Reactionary"
+
+  # Magic
+  - name: "Magical Knack (Oracle)"

@@ -10,3 +10,16 @@
 
   # Racial Trait
   - name: "Spell Focus (Necromancy)"
+
+#
+# Traits
+#
+
+  # Campaign (Kingmaker)
+  - name: "Bastard"
+
+  # Combat
+  - name: "Reactionary"
+
+  # Magic
+  - name: "Magical Knack (Oracle)"
