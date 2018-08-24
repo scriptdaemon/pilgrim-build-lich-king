@@ -39,8 +39,8 @@
   # Campaign (Kingmaker)
   - name: "Bastard"
 
-  # Combat
-  - name: "Reactionary"
-
   # Magic
   - name: "Magical Knack (Oracle)"
+
+  # Combat
+  - name: "Reactionary"
