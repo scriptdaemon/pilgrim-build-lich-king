@@ -18,6 +18,21 @@
   # Known Spell
   - name: "???"
 
+  # Known Spell
+  - name: "???"
+
+  # Known Spell
+  - name: "???"
+
+  # Known Spell
+  - name: "???"
+
+  # Known Spell
+  - name: "???"
+
+  # Known Spell
+  - name: "???"
+
   #
   # Level 1
   #
@@ -27,6 +42,73 @@
 
   # Known Spell
   - name: "???"
+
+  # Known Spell
+  - name: "???"
+
+  # Known Spell
+  - name: "???"
+
+  # Known Spell
+  - name: "???"
+
+  # Known Spell
+  - name: "???"
+
+  #
+  # Level 2
+  #
+
+  # Known Spell
+  - name: "Desecrate"
+
+  # "Inflict" Spell
+  - name: "Inflict Moderate Wounds"
+
+  # Known Spell
+  - name: "Remove Paralysis"
+
+  # Known Spell
+  - name: "???"
+
+  # Known Spell
+  - name: "???"
+
+  #
+  # Level 3
+  #
+
+  # Known Spell
+  - name: "Animate Dead"
+
+  # "Inflict" Spell
+  - name: "Inflict Moderate Wounds"
+
+  # Known Spell
+  - name: "???"
+
+  # Known Spell
+  - name: "???"
+
+  #
+  # Level 4
+  #
+
+  # "Inflict" Spell
+  - name: "Inflict Critical Wounds"
+
+  # Known Spell
+  - name: "???"
+
+  # Known Spell
+  - name: "???"
+
+  #
+  # Level 5
+  #
+
+  # "Inflict" Spell
+  - name: "Inflict Light Wounds, Mass"
 
   # Known Spell
   - name: "???"

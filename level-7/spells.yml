@@ -18,6 +18,12 @@
   # Known Spell
   - name: "???"
 
+  # Known Spell
+  - name: "???"
+
+  # Known Spell
+  - name: "???"
+
   #
   # Level 1
   #
@@ -30,6 +36,19 @@
 
   # Known Spell
   - name: "???"
+
+  # Known Spell
+  - name: "???"
+
+  #
+  # Level 2
+  #
+
+  # Known Spell
+  - name: "Animate Dead, Lesser"
+
+  # "Inflict" Spell
+  - name: "Inflict Moderate Wounds"
 
 #
 # Wizard
