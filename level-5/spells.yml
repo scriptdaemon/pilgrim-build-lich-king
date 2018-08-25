@@ -55,6 +55,9 @@
   - name: "Disrupt Undead"
 
   # Starting Spell
+  - name: "Ghost Sound"
+
+  # Starting Spell
   - name: "Mage Hand"
 
   # Starting Spell
@@ -78,7 +81,6 @@
   #  - Divinaton
   #  - Enchantment
   #  - Evocation
-  #  - Illusion
 
   #
   # Level 1
@@ -119,4 +121,4 @@
   - name: "Command Undead"
 
   # Character Advancement
-  - name: "???"
+  - name: "Invisibility"
