@@ -25,9 +25,6 @@
   # "Inflict" Spell
   - name: "Inflict Light Wounds"
 
-  # Mystery Spell
-  - name: "Speak with Animals"
-
   # Known Spell
   - name: "???"
 
