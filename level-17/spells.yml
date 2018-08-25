@@ -159,6 +159,9 @@
   #
 
   # Starting Spell
+  - name: "Acid Splash"
+
+  # Starting Spell
   - name: "Arcane Mark"
 
   # Starting Spell
@@ -190,7 +193,6 @@
 
   # Potential Opposition Schools:
   #  - Abjuration
-  #  - Conjuration
   #  - Divinaton
   #  - Enchantment
   #  - Evocation
@@ -203,7 +205,7 @@
   - name: "Blood Money"
 
   # Starting Spell
-  - name: "???"
+  - name: "Mage Armor"
 
   # Starting Spell
   - name: "???"
