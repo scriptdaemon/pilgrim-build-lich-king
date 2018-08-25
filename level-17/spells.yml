@@ -205,13 +205,13 @@
   - name: "Blood Money"
 
   # Starting Spell
+  - name: "Chill Touch"
+
+  # Starting Spell
   - name: "Mage Armor"
 
   # Character Advancement
   - name: "Repair Undead"
-
-  # Starting Spell
-  - name: "???"
 
   # Starting Spell
   - name: "???"
