@@ -100,11 +100,11 @@
   # Level 4
   #
 
+  # Known Spell
+  - name: "Death Ward"
+
   # "Inflict" Spell
   - name: "Inflict Critical Wounds"
-
-  # Known Spell
-  - name: "???"
 
   # Known Spell
   - name: "???"
