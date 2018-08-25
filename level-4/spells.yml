@@ -22,14 +22,14 @@
   # Level 1
   #
 
+  # Known Spell
+  - name: "Infernal Healing"
+
   # "Inflict" Spell
   - name: "Inflict Light Wounds"
 
   # Known Spell
   - name: "Obscuring Mist"
-
-  # Known Spell
-  - name: "???"
 
 #
 # Wizard

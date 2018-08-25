@@ -25,6 +25,9 @@
   # Level 1
   #
 
+  # Known Spell
+  - name: "Infernal Healing"
+
   # "Inflict" Spell
   - name: "Inflict Light Wounds"
 
@@ -33,9 +36,6 @@
 
   # Mystery Spell
   - name: "Speak with Animals"
-
-  # Known Spell
-  - name: "???"
 
   # Known Spell
   - name: "???"
