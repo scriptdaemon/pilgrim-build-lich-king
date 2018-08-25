@@ -53,6 +53,9 @@
   - name: "Blood Money"
 
   # Starting Spell
+  - name: "Cause Fear"
+
+  # Starting Spell
   - name: "Chill Touch"
 
   # Starting Spell
@@ -60,9 +63,6 @@
 
   # Starting Spell
   - name: "Vanish"
-
-  # Starting Spell
-  - name: "???"
 
   # Starting Spell
   - name: "???"
