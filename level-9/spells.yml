@@ -132,22 +132,22 @@
   # Starting Spell
   - name: "Mage Armor"
 
-  # Starting Spell
-  - name: "???"
-
-  # Starting Spell
-  - name: "???"
-
-  # Starting Spell
-  - name: "???"
-
-  # Starting Spell
-  - name: "???"
-
-  # Starting Spell
-  - name: "???"
-
   # Character Advancement
+  - name: "Repair Undead"
+
+  # Starting Spell
+  - name: "???"
+
+  # Starting Spell
+  - name: "???"
+
+  # Starting Spell
+  - name: "???"
+
+  # Starting Spell
+  - name: "???"
+
+  # Starting Spell
   - name: "???"
 
   # Character Advancement
