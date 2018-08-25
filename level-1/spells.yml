@@ -62,10 +62,10 @@
   - name: "Mage Armor"
 
   # Starting Spell
-  - name: "Vanish"
+  - name: "Ray of Enfeeblement"
 
   # Starting Spell
-  - name: "???"
+  - name: "Vanish"
 
   # Starting Spell
   - name: "???"

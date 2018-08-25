@@ -169,14 +169,14 @@
   # Starting Spell
   - name: "Mage Armor"
 
+  # Starting Spell
+  - name: "Ray of Enfeeblement"
+
   # Character Advancement
   - name: "Repair Undead"
 
   # Starting Spell
   - name: "Vanish"
-
-  # Starting Spell
-  - name: "???"
 
   # Starting Spell
   - name: "???"
