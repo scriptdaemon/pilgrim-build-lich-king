@@ -57,6 +57,9 @@
   #
 
   # Known Spell
+  - name: "Death Knell"
+
+  # Known Spell
   - name: "Desecrate"
 
   # Mystery Spell
@@ -67,9 +70,6 @@
 
   # Known Spell (Exchanged)
   - name: "Remove Paralysis"
-
-  # Known Spell
-  - name: "???"
 
   #
   # Level 3
