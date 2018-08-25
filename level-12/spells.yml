@@ -37,11 +37,11 @@
   # "Inflict" Spell
   - name: "Inflict Light Wounds"
 
+  # Known Spell
+  - name: "Obscuring Mist"
+
   # Mystery Spell
   - name: "Speak with Animals"
-
-  # Known Spell
-  - name: "???"
 
   # Known Spell
   - name: "???"
