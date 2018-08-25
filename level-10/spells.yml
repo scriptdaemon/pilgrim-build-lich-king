@@ -34,6 +34,9 @@
   # "Inflict" Spell
   - name: "Inflict Light Wounds"
 
+  # Mystery Spell
+  - name: "Speak with Animals"
+
   # Known Spell
   - name: "???"
 
@@ -53,10 +56,13 @@
   # Known Spell
   - name: "Desecrate"
 
+  # Mystery Spell
+  - name: "Hideous Laughter"
+
   # "Inflict" Spell
   - name: "Inflict Moderate Wounds"
 
-  # Known Spell
+  # Known Spell (Exchanged)
   - name: "Remove Paralysis"
 
   #
