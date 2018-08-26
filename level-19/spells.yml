@@ -147,11 +147,11 @@
   # Known Spell
   - name: "Create Undead"
 
+  # Known Spell
+  - name: "Harm"
+
   # "Inflict" Spell
   - name: "Inflict Moderate Wounds, Mass"
-
-  # Known Spell
-  - name: "???"
 
   # Known Spell
   - name: "???"
