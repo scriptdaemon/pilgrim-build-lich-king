@@ -74,14 +74,14 @@
   # "Inflict" Spell
   - name: "Inflict Moderate Wounds"
 
-  # Known Spell (Exchanged)
+  # Known Spell
   - name: "Remove Paralysis"
+
+  # Known Spell (Exchanged)
+  - name: "Undetectable Alignment"
 
   # Known Spell
   - name: "Unliving Rage"
-
-  # Known Spell
-  - name: "???"
 
   #
   # Level 3
