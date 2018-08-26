@@ -96,11 +96,11 @@
   # Known Spell
   - name: "Create Soul Gem"
 
+  # Known Spell
+  - name: "Dispel Magic"
+
   # "Inflict" Spell
   - name: "Inflict Moderate Wounds"
-
-  # Known Spell
-  - name: "???"
 
   #
   # Level 4

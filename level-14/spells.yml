@@ -91,7 +91,7 @@
   - name: "Contagion"
 
   # Known Spell
-  - name: "Create Soul Gem"
+  - name: "Dispel Magic"
 
   # "Inflict" Spell
   - name: "Inflict Moderate Wounds"
