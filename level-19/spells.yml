@@ -148,7 +148,7 @@
   - name: "Create Undead"
 
   # Known Spell
-  - name: "Harm"
+  - name: "Death Knell Aura, Greater"
 
   # "Inflict" Spell
   - name: "Inflict Moderate Wounds, Mass"
