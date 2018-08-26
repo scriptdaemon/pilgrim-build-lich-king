@@ -78,11 +78,11 @@
   # Known Spell
   - name: "Animate Dead"
 
+  # Known Spell
+  - name: "Contagion"
+
   # "Inflict" Spell
   - name: "Inflict Moderate Wounds"
-
-  # Known Spell
-  - name: "???"
 
 #
 # Wizard
