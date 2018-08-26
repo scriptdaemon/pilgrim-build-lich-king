@@ -122,14 +122,14 @@
   # Level 5
   #
 
-  # Known Spell
-  - name: "Contagion, Greater"
-
   # "Inflict" Spell
   - name: "Inflict Light Wounds, Mass"
 
   # Known Spell
   - name: "Slay Living"
+
+  # Known Spell
+  - name: "Unhallow"
 
   #
   # Level 6
