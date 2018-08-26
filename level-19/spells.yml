@@ -116,10 +116,10 @@
   - name: "Inflict Critical Wounds"
 
   # Known Spell
-  - name: "Poison"
+  - name: "Plague Carrier"
 
   # Known Spell
-  - name: "???"
+  - name: "Poison"
 
   #
   # Level 5
