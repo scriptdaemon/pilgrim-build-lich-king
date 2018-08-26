@@ -29,10 +29,10 @@
   #
 
   # Known Spell
-  - name: "Detect Undead"
+  - name: "Bane"
 
   # Known Spell
-  - name: "Infernal Healing"
+  - name: "Detect Undead"
 
   # "Inflict" Spell
   - name: "Inflict Light Wounds"

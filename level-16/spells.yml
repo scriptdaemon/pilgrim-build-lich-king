@@ -38,6 +38,9 @@
   #
 
   # Known Spell
+  - name: "Bane"
+
+  # Known Spell
   - name: "Detect Undead"
 
   # Known Spell
@@ -51,9 +54,6 @@
 
   # Mystery Spell
   - name: "Speak with Animals"
-
-  # Known Spell
-  - name: "???"
 
   # Known Spell
   - name: "???"
