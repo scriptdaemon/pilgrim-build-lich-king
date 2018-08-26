@@ -148,13 +148,13 @@
   - name: "Create Undead"
 
   # Known Spell
-  - name: "Death Knell Aura, Greater"
-
-  # Known Spell
   - name: "Harm"
 
   # "Inflict" Spell
   - name: "Inflict Moderate Wounds, Mass"
+
+  # Known Spell
+  - name: "Plague Storm"
 
   #
   # Level 7
