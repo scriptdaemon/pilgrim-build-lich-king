@@ -25,11 +25,11 @@
   # Known Spell
   - name: "Detect Undead"
 
+  # Known Spell
+  - name: "Doom"
+
   # "Inflict" Spell
   - name: "Inflict Light Wounds"
-
-  # Known Spell
-  - name: "Obscuring Mist"
 
 #
 # Wizard

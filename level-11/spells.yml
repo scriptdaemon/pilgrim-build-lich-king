@@ -38,6 +38,9 @@
   - name: "Detect Undead"
 
   # Known Spell
+  - name: "Doom"
+
+  # Known Spell
   - name: "Infernal Healing"
 
   # "Inflict" Spell
@@ -48,9 +51,6 @@
 
   # Mystery Spell
   - name: "Speak with Animals"
-
-  # Known Spell
-  - name: "???"
 
   #
   # Level 2

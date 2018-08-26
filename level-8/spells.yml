@@ -35,7 +35,7 @@
   - name: "Detect Undead"
 
   # Known Spell
-  - name: "Infernal Healing"
+  - name: "Doom"
 
   # "Inflict" Spell
   - name: "Inflict Light Wounds"
