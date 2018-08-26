@@ -161,13 +161,13 @@
   #
 
   # Known Spell
+  - name: "Blasphemy"
+
+  # Known Spell
   - name: "Destruction"
 
   # "Inflict" Spell
   - name: "Inflict Serious Wounds, Mass"
-
-  # Known Spell
-  - name: "???"
 
 #
 # Wizard
