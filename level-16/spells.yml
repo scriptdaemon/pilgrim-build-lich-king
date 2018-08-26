@@ -107,6 +107,9 @@
   #
 
   # Known Spell
+  - name: "Death Knell Aura"
+
+  # Known Spell
   - name: "Death Ward"
 
   # "Inflict" Spell
@@ -114,9 +117,6 @@
 
   # Known Spell
   - name: "Poison"
-
-  # Known Spell
-  - name: "???"
 
   #
   # Level 5
