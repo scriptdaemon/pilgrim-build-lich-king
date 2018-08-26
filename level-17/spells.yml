@@ -107,10 +107,10 @@
   #
 
   # Known Spell
-  - name: "Death Knell Aura"
+  - name: "Aura of Doom"
 
   # Known Spell
-  - name: "Death Ward"
+  - name: "Death Knell Aura"
 
   # "Inflict" Spell
   - name: "Inflict Critical Wounds"
