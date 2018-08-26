@@ -158,6 +158,9 @@
   - name: "Chill Touch"
 
   # Starting Spell
+  - name: "Interrogation"
+
+  # Starting Spell
   - name: "Mage Armor"
 
   # Starting Spell
@@ -168,9 +171,6 @@
 
   # Starting Spell
   - name: "Vanish"
-
-  # Starting Spell
-  - name: "???"
 
   # Character Advancement
   - name: "???"
