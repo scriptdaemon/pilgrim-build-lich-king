@@ -35,6 +35,9 @@
   #
 
   # Known Spell
+  - name: "Detect Undead"
+
+  # Known Spell
   - name: "Infernal Healing"
 
   # "Inflict" Spell
@@ -45,9 +48,6 @@
 
   # Mystery Spell
   - name: "Speak with Animals"
-
-  # Known Spell
-  - name: "???"
 
   # Known Spell
   - name: "???"

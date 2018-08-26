@@ -23,7 +23,7 @@
   #
 
   # Known Spell
-  - name: "Infernal Healing"
+  - name: "Detect Undead"
 
   # "Inflict" Spell
   - name: "Inflict Light Wounds"
