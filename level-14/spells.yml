@@ -90,11 +90,11 @@
   # Known Spell
   - name: "Contagion"
 
+  # Known Spell
+  - name: "Create Soul Gem"
+
   # "Inflict" Spell
   - name: "Inflict Moderate Wounds"
-
-  # Known Spell
-  - name: "???"
 
   #
   # Level 4
