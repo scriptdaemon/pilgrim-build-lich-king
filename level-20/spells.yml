@@ -230,7 +230,7 @@
   # Level 1
   #
 
-  # Starting Spell
+  # Character Advancement
   - name: "Blood Money"
 
   # Starting Spell
@@ -243,6 +243,9 @@
   - name: "Interrogation"
 
   # Starting Spell
+  - name: "Feather Fall"
+
+  # Starting Spell
   - name: "Mage Armor"
 
   # Starting Spell
@@ -253,9 +256,6 @@
 
   # Starting Spell
   - name: "Vanish"
-
-  # Character Advancement
-  - name: "???"
 
   #
   # Level 2

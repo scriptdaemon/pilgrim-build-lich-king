@@ -113,7 +113,7 @@
   # Level 1
   #
 
-  # Starting Spell
+  # Character Advancement
   - name: "Blood Money"
 
   # Starting Spell
@@ -121,6 +121,9 @@
 
   # Starting Spell
   - name: "Chill Touch"
+
+  # Starting Spell
+  - name: "Feather Fall"
 
   # Starting Spell
   - name: "Interrogation"
@@ -136,9 +139,6 @@
 
   # Starting Spell
   - name: "Vanish"
-
-  # Character Advancement
-  - name: "???"
 
   #
   # Level 2

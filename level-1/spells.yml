@@ -50,13 +50,13 @@
   #
 
   # Starting Spell
-  - name: "Blood Money"
-
-  # Starting Spell
   - name: "Cause Fear"
 
   # Starting Spell
   - name: "Chill Touch"
+
+  # Starting Spell
+  - name: "Feather Fall"
 
   # Starting Spell
   - name: "Interrogation"
