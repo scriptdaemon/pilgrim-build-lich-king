@@ -43,7 +43,7 @@
   # Known Spell
   - name: "Obscuring Mist"
 
-  # "Inflict" Spell
+  # Inflict Spell
   - name: "Inflict Light Wounds"
 
   # Mystery Spell
@@ -59,7 +59,7 @@
   # Known Spell (Exchanged)
   - name: "Desecrate"
 
-  # "Inflict" Spell
+  # Inflict Spell
   - name: "Inflict Moderate Wounds"
 
   # Mystery Spell
@@ -72,7 +72,7 @@
   # Known Spell
   - name: "Animate Dead"
 
-  # "Inflict" Spell
+  # Inflict Spell
   - name: "Inflict Moderate Wounds"
 
 #

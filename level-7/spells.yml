@@ -37,7 +37,7 @@
   # Known Spell
   - name: "Detect Undead"
 
-  # "Inflict" Spell
+  # Inflict Spell
   - name: "Inflict Light Wounds"
 
   # Mystery Spell
@@ -50,7 +50,7 @@
   # Known Spell
   - name: "Animate Dead, Lesser"
 
-  # "Inflict" Spell
+  # Inflict Spell
   - name: "Inflict Moderate Wounds"
 
   # Mystery Spell
