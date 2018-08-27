@@ -2,17 +2,38 @@
 # Feats
 #
 
-  # Power over Undead (Su) / Undead Servitude (Su)
-  - name: "Command Undead"
-
   # Character Advancement
-  - name: "Reach Spell"
-
-  # Racial Trait
   - name: "Spell Focus (Necromancy)"
 
   # Character Advancement
   - name: "Undead Master"
+
+  # Racial Trait
+  - name: "Reach Spell"
+
+  # Class Ability
+  - name: "Armor Proficiency, Light"
+
+  # Class Ability
+  - name: "Armor Proficiency, Medium"
+
+  # Class Ability
+  - name: "Scribe Scroll"
+
+  # Class Ability
+  - name: "Shield Proficiency"
+
+  # Class Ability
+  - name: "Simply Weapon Proficiency"
+
+  # Class Ability
+  - name: "Wizard Weapon Proficiency"
+
+  # Power over Undead (Su)
+  - name: "Command Undead"
+
+  # Undead Servitude (Su)
+  - name: "Command Undead"
 
 #
 # Traits
