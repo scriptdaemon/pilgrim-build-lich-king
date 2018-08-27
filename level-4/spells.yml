@@ -7,26 +7,26 @@
   #
 
   # Known Spell
-  - name: "Enhanced Diplomacy"
+  - name: "Bleed"
 
   # Known Spell
-  - name: "???"
+  - name: "Create Water"
 
   # Known Spell
-  - name: "???"
+  - name: "Guidance"
 
   # Known Spell
-  - name: "???"
+  - name: "Resistance"
 
   #
   # Level 1
   #
 
   # Known Spell
-  - name: "Detect Undead"
+  - name: "Cause Fear"
 
   # Known Spell
-  - name: "Doom"
+  - name: "Detect Undead"
 
   # "Inflict" Spell
   - name: "Inflict Light Wounds"
@@ -49,10 +49,25 @@
   - name: "Bleed"
 
   # Starting Spell
+  - name: "Dancing Lights"
+
+  # Starting Spell
+  - name: "Detect Magic"
+
+  # Starting Spell
+  - name: "Detect Poison"
+
+  # Starting Spell
   - name: "Disrupt Undead"
 
   # Starting Spell
+  - name: "Flare"
+
+  # Starting Spell
   - name: "Ghost Sound"
+
+  # Starting Spell
+  - name: "Light"
 
   # Starting Spell
   - name: "Mage Hand"
@@ -70,29 +85,29 @@
   - name: "Prestidigitation"
 
   # Starting Spell
-  - name: "Touch of Fatigue"
+  - name: "Ray of Frost"
 
-  # Potential Opposition Schools:
-  #  - Abjuration
-  #  - Divinaton
-  #  - Enchantment
-  #  - Evocation
+  # Starting Spell
+  - name: "Read Magic"
+
+  # Starting Spell
+  - name: "Touch of Fatigue"
 
   #
   # Level 1
   #
 
-  # Character Advancement
-  - name: "Blood Money"
-
-  # Starting Spell
-  - name: "Cause Fear"
-
   # Starting Spell
   - name: "Chill Touch"
 
   # Starting Spell
+  - name: "Disguise Self"
+
+  # Starting Spell
   - name: "Feather Fall"
+
+  # Starting Spell
+  - name: "Identify"
 
   # Starting Spell
   - name: "Interrogation"
@@ -104,10 +119,10 @@
   - name: "Ray of Enfeeblement"
 
   # Character Advancement
-  - name: "Repair Undead"
+  - name: "Blood Money"
 
-  # Starting Spell
-  - name: "Vanish"
+  # Character Advancement
+  - name: "Repair Undead"
 
   #
   # Level 2
@@ -117,4 +132,4 @@
   - name: "Command Undead"
 
   # Character Advancement
-  - name: "Invisibility"
+  - name: "Darkvision"

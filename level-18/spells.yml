@@ -7,31 +7,31 @@
   #
 
   # Known Spell
+  - name: "Bleed"
+
+  # Known Spell
+  - name: "Create Water"
+
+  # Known Spell
+  - name: "Detect Magic"
+
+  # Known Spell
+  - name: "Detect Poison"
+
+  # Known Spell
   - name: "Enhanced Diplomacy"
 
   # Known Spell
-  - name: "???"
+  - name: "Guidance"
 
   # Known Spell
-  - name: "???"
+  - name: "Mending"
 
   # Known Spell
-  - name: "???"
+  - name: "Read Magic"
 
   # Known Spell
-  - name: "???"
-
-  # Known Spell
-  - name: "???"
-
-  # Known Spell
-  - name: "???"
-
-  # Known Spell
-  - name: "???"
-
-  # Known Spell
-  - name: "???"
+  - name: "Resistance"
 
   #
   # Level 1
@@ -41,19 +41,19 @@
   - name: "Bane"
 
   # Known Spell
+  - name: "Cause Fear"
+
+  # Known Spell
   - name: "Detect Undead"
 
   # Known Spell
-  - name: "Doom"
-
-  # Known Spell
-  - name: "Infernal Healing"
-
-  # "Inflict" Spell
-  - name: "Inflict Light Wounds"
+  - name: "Hidden Diplomacy"
 
   # Known Spell
   - name: "Obscuring Mist"
+
+  # "Inflict" Spell
+  - name: "Inflict Light Wounds"
 
   # Mystery Spell
   - name: "Speak with Animals"
@@ -66,22 +66,22 @@
   - name: "Death Knell"
 
   # Known Spell
-  - name: "Desecrate"
-
-  # Mystery Spell
-  - name: "Hideous Laughter"
-
-  # "Inflict" Spell
-  - name: "Inflict Moderate Wounds"
+  - name: "Detect Magic, Greater"
 
   # Known Spell
   - name: "Remove Paralysis"
 
-  # Known Spell (Exchanged)
-  - name: "Undetectable Alignment"
-
   # Known Spell
   - name: "Unliving Rage"
+
+  # Known Spell (Exchanged)
+  - name: "Desecrate"
+
+  # "Inflict" Spell
+  - name: "Inflict Moderate Wounds"
+
+  # Mystery Spell
+  - name: "Hideous Laughter"
 
   #
   # Level 3
@@ -91,13 +91,13 @@
   - name: "Animate Dead"
 
   # Known Spell
+  - name: "Bestow Curse"
+
+  # Known Spell
   - name: "Contagion"
 
   # Known Spell
   - name: "Create Soul Gem"
-
-  # Known Spell
-  - name: "Dispel Magic"
 
   # "Inflict" Spell
   - name: "Inflict Moderate Wounds"
@@ -107,19 +107,25 @@
   #
 
   # Known Spell
-  - name: "Aura of Doom"
-
-  # Known Spell
   - name: "Death Knell Aura"
-
-  # "Inflict" Spell
-  - name: "Inflict Critical Wounds"
 
   # Known Spell
   - name: "Plague Carrier"
 
   # Known Spell
-  - name: "Poison"
+  - name: "Malediction"
+
+  # Known Spell
+  - name: "Unholy Blight"
+
+  # "Inflict" Spell
+  - name: "Inflict Critical Wounds"
+
+  # Secrets of Death (Ex)
+  - name: "Enervation"
+
+  # Secrets of Death (Ex)
+  - name: "False Life, Greater"
 
   #
   # Level 5
@@ -128,14 +134,20 @@
   # Known Spell
   - name: "Contagion, Greater"
 
-  # "Inflict" Spell
-  - name: "Inflict Light Wounds, Mass"
-
   # Known Spell
   - name: "Slay Living"
 
   # Known Spell
   - name: "Unhallow"
+
+  # "Inflict" Spell
+  - name: "Inflict Light Wounds, Mass"
+
+  # Secrets of Death (Ex)
+  - name: "Feast on Fear"
+
+  # Secrets of Death (Ex)
+  - name: "Magic Jar"
 
   #
   # Level 6
@@ -145,17 +157,20 @@
   - name: "Create Undead"
 
   # Known Spell
-  - name: "Death Knell Aura, Greater"
+  - name: "Plague Storm"
 
   # "Inflict" Spell
   - name: "Inflict Moderate Wounds, Mass"
+
+  # Secrets of Death (Ex)
+  - name: "Fester, Mass"
 
   #
   # Level 7
   #
 
   # Known Spell
-  - name: "Blasphemy"
+  - name: "Destruction"
 
   # "Inflict" Spell
   - name: "Inflict Serious Wounds, Mass"
@@ -178,10 +193,25 @@
   - name: "Bleed"
 
   # Starting Spell
+  - name: "Dancing Lights"
+
+  # Starting Spell
+  - name: "Detect Magic"
+
+  # Starting Spell
+  - name: "Detect Poison"
+
+  # Starting Spell
   - name: "Disrupt Undead"
 
   # Starting Spell
+  - name: "Flare"
+
+  # Starting Spell
   - name: "Ghost Sound"
+
+  # Starting Spell
+  - name: "Light"
 
   # Starting Spell
   - name: "Mage Hand"
@@ -199,29 +229,29 @@
   - name: "Prestidigitation"
 
   # Starting Spell
-  - name: "Touch of Fatigue"
+  - name: "Ray of Frost"
 
-  # Potential Opposition Schools:
-  #  - Abjuration
-  #  - Divinaton
-  #  - Enchantment
-  #  - Evocation
+  # Starting Spell
+  - name: "Read Magic"
+
+  # Starting Spell
+  - name: "Touch of Fatigue"
 
   #
   # Level 1
   #
 
-  # Character Advancement
-  - name: "Blood Money"
-
-  # Starting Spell
-  - name: "Cause Fear"
-
   # Starting Spell
   - name: "Chill Touch"
 
   # Starting Spell
+  - name: "Disguise Self"
+
+  # Starting Spell
   - name: "Feather Fall"
+
+  # Starting Spell
+  - name: "Identify"
 
   # Starting Spell
   - name: "Interrogation"
@@ -233,10 +263,10 @@
   - name: "Ray of Enfeeblement"
 
   # Character Advancement
-  - name: "Repair Undead"
+  - name: "Blood Money"
 
-  # Starting Spell
-  - name: "Vanish"
+  # Character Advancement
+  - name: "Repair Undead"
 
   #
   # Level 2
@@ -246,4 +276,4 @@
   - name: "Command Undead"
 
   # Character Advancement
-  - name: "Invisibility"
+  - name: "Darkvision"
