@@ -1,4 +1,18 @@
 #
+# Traits
+#
+
+  # Campaign (Kingmaker)
+  - name: "Bastard"
+
+  # Magic
+  - name: "Magical Knack (Oracle)"
+
+  # Combat
+  - name: "Reactionary"
+
+
+#
 # Feats
 #
 
@@ -19,16 +33,3 @@
 
   # Power over Undead (Su)
   - name: "Command Undead"
-
-#
-# Traits
-#
-
-  # Campaign (Kingmaker)
-  - name: "Bastard"
-
-  # Magic
-  - name: "Magical Knack (Oracle)"
-
-  # Combat
-  - name: "Reactionary"

@@ -1,4 +1,18 @@
 #
+# Traits
+#
+
+  # Campaign (Kingmaker)
+  - name: "Bastard"
+
+  # Magic
+  - name: "Magical Knack (Oracle)"
+
+  # Combat
+  - name: "Reactionary"
+
+
+#
 # Feats
 #
 
@@ -34,16 +48,3 @@
 
   # Undead Servitude (Su)
   - name: "Command Undead"
-
-#
-# Traits
-#
-
-  # Campaign (Kingmaker)
-  - name: "Bastard"
-
-  # Magic
-  - name: "Magical Knack (Oracle)"
-
-  # Combat
-  - name: "Reactionary"
