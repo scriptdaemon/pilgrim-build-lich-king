@@ -24,10 +24,7 @@
 # Feats
 #
 
-  # Character Advancement
-  - name: "Spell Focus (Necromancy)"
-
-  # Racial Trait
+  # Racial Trait (Bonus Feat)
   - name: "Reach Spell"
 
   # Class Ability
@@ -38,3 +35,6 @@
 
   # Power over Undead (Su)
   - name: "Command Undead"
+
+  # Character Advancement
+  - name: "Spell Focus (Necromancy)"

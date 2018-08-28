@@ -24,31 +24,7 @@
 # Feats
 #
 
-  # Character Advancement
-  - name: "Charnel Soldiers"
-
-  # Character Advancement
-  - name: "Craft Wondrous Item"
-
-  # Character Advancement
-  - name: "Leadership"
-
-  # Character Advancement
-  - name: "Outflank"
-
-  # Character Advancement
-  - name: "Spell Focus (Necromancy)"
-
-  # Character Advancement
-  - name: "Spell Specialization (Animate Dead)"
-
-  # Character Advancement
-  - name: "Threnodic Spell"
-
-  # Character Advancement
-  - name: "Undead Master"
-
-  # Racial Trait
+  # Racial Trait (Bonus Feat)
   - name: "Reach Spell"
 
   # Class Ability
@@ -74,3 +50,27 @@
 
   # Undead Servitude (Su)
   - name: "Command Undead"
+
+  # Character Advancement
+  - name: "Charnel Soldiers"
+
+  # Character Advancement
+  - name: "Craft Wondrous Item"
+
+  # Character Advancement
+  - name: "Leadership"
+
+  # Character Advancement
+  - name: "Outflank"
+
+  # Character Advancement
+  - name: "Spell Focus (Necromancy)"
+
+  # Character Advancement
+  - name: "Spell Specialization (Animate Dead)"
+
+  # Character Advancement
+  - name: "Threnodic Spell"
+
+  # Character Advancement
+  - name: "Undead Master"

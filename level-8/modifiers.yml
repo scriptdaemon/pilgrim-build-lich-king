@@ -24,19 +24,7 @@
 # Feats
 #
 
-  # Character Advancement
-  - name: "Leadership"
-
-  # Character Advancement
-  - name: "Spell Focus (Necromancy)"
-
-  # Character Advancement
-  - name: "Threnodic Spell"
-
-  # Character Advancement
-  - name: "Undead Master"
-
-  # Racial Trait
+  # Racial Trait (Bonus Feat)
   - name: "Reach Spell"
 
   # Class Ability
@@ -62,3 +50,15 @@
 
   # Undead Servitude (Su)
   - name: "Command Undead"
+
+  # Character Advancement
+  - name: "Leadership"
+
+  # Character Advancement
+  - name: "Spell Focus (Necromancy)"
+
+  # Character Advancement
+  - name: "Threnodic Spell"
+
+  # Character Advancement
+  - name: "Undead Master"
