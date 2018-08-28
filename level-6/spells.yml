@@ -25,6 +25,12 @@
   # Level 1
   #
 
+  # Inflict Spell
+  - name: "Inflict Light Wounds"
+
+  # Mystery Spell (Juju)
+  - name: "Speak with Animals"
+
   # Known Spell
   - name: "Bane"
 
@@ -33,12 +39,6 @@
 
   # Known Spell
   - name: "Detect Undead"
-
-  # Inflict Spell
-  - name: "Inflict Light Wounds"
-
-  # Mystery Spell
-  - name: "Speak with Animals"
 
 #
 # Wizard

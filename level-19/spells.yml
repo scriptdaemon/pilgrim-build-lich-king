@@ -37,6 +37,12 @@
   # Level 1
   #
 
+  # Inflict Spell
+  - name: "Inflict Light Wounds"
+
+  # Mystery Spell (Juju)
+  - name: "Speak with Animals"
+
   # Known Spell
   - name: "Bane"
 
@@ -52,15 +58,15 @@
   # Known Spell
   - name: "Obscuring Mist"
 
-  # Inflict Spell
-  - name: "Inflict Light Wounds"
-
-  # Mystery Spell
-  - name: "Speak with Animals"
-
   #
   # Level 2
   #
+
+  # Inflict Spell
+  - name: "Inflict Moderate Wounds"
+
+  # Mystery Spell (Juju)
+  - name: "Hideous Laughter"
 
   # Known Spell
   - name: "Death Knell"
@@ -77,15 +83,12 @@
   # Known Spell (Exchanged)
   - name: "Desecrate"
 
-  # Inflict Spell
-  - name: "Inflict Moderate Wounds"
-
-  # Mystery Spell
-  - name: "Hideous Laughter"
-
   #
   # Level 3
   #
+
+  # Inflict Spell
+  - name: "Inflict Moderate Wounds"
 
   # Known Spell
   - name: "Animate Dead"
@@ -99,12 +102,18 @@
   # Known Spell
   - name: "Create Soul Gem"
 
-  # Inflict Spell
-  - name: "Inflict Moderate Wounds"
-
   #
   # Level 4
   #
+
+  # Inflict Spell
+  - name: "Inflict Critical Wounds"
+
+  # Secrets of Death (Ex)
+  - name: "Enervation"
+
+  # Secrets of Death (Ex)
+  - name: "False Life, Greater"
 
   # Known Spell
   - name: "Death Knell Aura"
@@ -118,18 +127,15 @@
   # Known Spell
   - name: "Unholy Blight"
 
-  # Inflict Spell
-  - name: "Inflict Critical Wounds"
-
-  # Secrets of Death (Ex)
-  - name: "Enervation"
-
-  # Secrets of Death (Ex)
-  - name: "False Life, Greater"
-
   #
   # Level 5
   #
+
+  # Inflict Spell
+  - name: "Inflict Light Wounds, Mass"
+
+  # Secrets of Death (Ex)
+  - name: "Magic Jar"
 
   # Known Spell
   - name: "Contagion, Greater"
@@ -143,24 +149,9 @@
   # Known Spell
   - name: "Unhallow"
 
-  # Inflict Spell
-  - name: "Inflict Light Wounds, Mass"
-
-  # Secrets of Death (Ex)
-  - name: "Magic Jar"
-
   #
   # Level 6
   #
-
-  # Known Spell
-  - name: "Create Undead"
-
-  # Known Spell
-  - name: "Plague Bearer"
-
-  # Known Spell
-  - name: "Plague Storm"
 
   # Inflict Spell
   - name: "Inflict Moderate Wounds, Mass"
@@ -171,18 +162,27 @@
   # Secrets of Death (Ex)
   - name: "Fester, Mass"
 
+  # Known Spell
+  - name: "Create Undead"
+
+  # Known Spell
+  - name: "Plague Bearer"
+
+  # Known Spell
+  - name: "Plague Storm"
+
   #
   # Level 7
   #
+
+  # Inflict Spell
+  - name: "Inflict Serious Wounds, Mass"
 
   # Known Spell
   - name: "Blasphemy"
 
   # Known Spell
   - name: "Destruction"
-
-  # Inflict Spell
-  - name: "Inflict Serious Wounds, Mass"
 
 #
 # Wizard

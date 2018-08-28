@@ -22,14 +22,14 @@
   # Level 1
   #
 
+  # Inflict Spell
+  - name: "Inflict Light Wounds"
+
   # Known Spell
   - name: "Cause Fear"
 
   # Known Spell
   - name: "Detect Undead"
-
-  # Inflict Spell
-  - name: "Inflict Light Wounds"
 
 #
 # Wizard
