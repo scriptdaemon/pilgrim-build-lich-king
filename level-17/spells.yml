@@ -68,7 +68,7 @@
   # Mystery Spell (Juju)
   - name: "Hideous Laughter"
 
-  # Oracle's Curse (Ex) (Lich)
+  # Oracle's Curse (Lich) (Ex)
   - name: "Control Undead"
 
   # Known Spell
@@ -93,7 +93,7 @@
   # Inflict Spell
   - name: "Inflict Moderate Wounds"
 
-  # Oracle's Curse (Ex) (Lich)
+  # Oracle's Curse (Lich) (Ex)
   - name: "Undead Anatomy I"
 
   # Known Spell
@@ -140,7 +140,7 @@
   # Inflict Spell
   - name: "Inflict Light Wounds, Mass"
 
-  # Oracle's Curse (Ex) (Lich)
+  # Oracle's Curse (Lich) (Ex)
   - name: "Undead Anatomy II"
 
   # Secrets of Death (Ex)
