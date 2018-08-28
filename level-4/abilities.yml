@@ -1,0 +1,22 @@
+#
+# Oracle
+#
+
+  # Class Ability
+  - name: "Oracle's Curse (Ex)"
+
+  # Revelation
+  - name: "Undead Servitude (Su)"
+
+#
+# Wizard
+#
+
+  # Class Ability
+  - name: "Arcane Bond (Sp)"
+
+  # Necromancy Arcane School
+  - name: "Grave Touch (Sp)"
+
+  # Necromancy Arcane School
+  - name: "Power over Undead (Su)"

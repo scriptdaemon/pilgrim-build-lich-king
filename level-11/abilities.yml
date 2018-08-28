@@ -1,0 +1,48 @@
+#
+# Agent of the Grave
+#
+
+  # Class Ability
+  - name: "Lich's Touch (Su)"
+
+  # Class Ability
+  - name: "Inspired Necromancy (Ex)"
+
+  # Class Ability
+  - name: "Undead Manipulator (Ex)"
+
+  # Class Ability
+  - name: "Unholy Fortitude (Su)"
+
+#
+# Mystic Theurge
+#
+
+  # Class Ability
+  - name: "Combined Spells (Su)"
+
+#
+# Oracle
+#
+
+  # Class Ability
+  - name: "Oracle's Curse (Ex)"
+
+  # Revelation
+  - name: "Spirit Vessels (Su)"
+
+  # Revelation
+  - name: "Undead Servitude (Su)"
+
+#
+# Wizard
+#
+
+  # Class Ability
+  - name: "Arcane Bond (Sp)"
+
+  # Necromancy Arcane School
+  - name: "Grave Touch (Sp)"
+
+  # Necromancy Arcane School
+  - name: "Power over Undead (Su)"
