@@ -65,6 +65,9 @@
   # Mystery Spell (Juju)
   - name: "Hideous Laughter"
 
+  # Oracle's Curse (Ex) (Lich)
+  - name: "Control Undead"
+
   # Known Spell
   - name: "Death Knell"
 
