@@ -198,9 +198,6 @@
   - name: "Flare"
 
   # Starting Spell
-  - name: "Ghost Sound"
-
-  # Starting Spell
   - name: "Light"
 
   # Starting Spell
@@ -225,6 +222,9 @@
   - name: "Read Magic"
 
   # Starting Spell
+  - name: "Resistance"
+
+  # Starting Spell
   - name: "Touch of Fatigue"
 
   #
@@ -238,9 +238,6 @@
   - name: "Feather Fall"
 
   # Starting Spell
-  - name: "Identify"
-
-  # Starting Spell
   - name: "Interrogation"
 
   # Starting Spell
@@ -251,6 +248,9 @@
 
   # Starting Spell
   - name: "Ray of Enfeeblement"
+
+  # Starting Spell
+  - name: "Shield"
 
   # Character Advancement
   - name: "Blood Money"
