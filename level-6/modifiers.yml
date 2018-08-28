@@ -2,13 +2,22 @@
 # Traits
 #
 
+  #
   # Campaign (Kingmaker)
+  #
+
   - name: "Bastard"
 
+  #
   # Magic
+  #
+
   - name: "Magical Knack (Oracle)"
 
+  #
   # Combat
+  #
+
   - name: "Reactionary"
 
 #
