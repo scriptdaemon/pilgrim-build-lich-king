@@ -145,9 +145,6 @@
   - name: "Chill Touch"
 
   # Starting Spell
-  - name: "Disguise Self"
-
-  # Starting Spell
   - name: "Feather Fall"
 
   # Starting Spell
@@ -158,6 +155,9 @@
 
   # Starting Spell
   - name: "Mage Armor"
+
+  # Starting Spell
+  - name: "Magic Missile"
 
   # Starting Spell
   - name: "Ray of Enfeeblement"
