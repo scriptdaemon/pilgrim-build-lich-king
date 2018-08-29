@@ -38,3 +38,49 @@
 
   # Character Advancement
   - name: "Spell Focus (Necromancy)"
+
+#
+# Equipment
+#
+
+  #
+  # Gear
+  #
+
+  # 20 gp, 1 lb.
+  - name: "Alchemist Fire"
+
+  # 20 gp, 1 lb.
+  - name: "Alchemist Fire"
+
+  # 1 gp, 2 lbs.
+  - name: "Grooming Kit"
+
+  # free, 6 lbs.
+  - name: "Scholar's Outfit"
+
+  # 5 gp, 1 lb.
+  - name: "Scroll Box"
+
+  # 10 gp, 5 lbs.
+  - name: "Silk Rope"
+
+  # 10 gp, 5 lbs.
+  - name: "Silk Rope"
+
+  # free, 3 lbs.
+  - name: "Spellbook"
+
+  # 5 sp, 1/2 lb.
+  - name: "Waterproof Bag"
+
+  # 21 gp, 21 lbs.
+  - name: "Wizard's Kit"
+
+  #
+  # Magic Items
+  #
+
+  # 75 gp, n/a.
+  - name: "Ioun Torch"
+    slot: "none"

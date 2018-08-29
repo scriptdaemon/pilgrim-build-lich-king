@@ -52,7 +52,7 @@
   # 1 gp, 2 lbs.
   - name: "Grooming Kit"
 
-  # free, 6 lbs.
+  # n/a, 6 lbs.
   - name: "Scholar's Outfit"
 
   # 5 gp, 1 lb.
@@ -64,7 +64,7 @@
   # 10 gp, 5 lbs.
   - name: "Silk Rope"
 
-  # free, 3 lbs.
+  # n/a, 3 lbs.
   - name: "Spellbook"
 
   # 5 sp, 1/2 lb.
