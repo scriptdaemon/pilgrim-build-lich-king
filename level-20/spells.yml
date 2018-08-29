@@ -146,6 +146,9 @@
   # Secrets of Death (Ex)
   - name: "Magic Jar"
 
+  # Secrets of Death (Ex)
+  - name: "Repair Undead, Mass"
+
   # Known Spell
   - name: "Contagion, Greater"
 
@@ -167,9 +170,6 @@
 
   # Secrets of Death (Ex)
   - name: "Circle of Death"
-
-  # Secrets of Death (Ex)
-  - name: "Fester, Mass"
 
   # Known Spell
   - name: "Create Undead"
