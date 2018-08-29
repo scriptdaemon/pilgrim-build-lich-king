@@ -44,8 +44,8 @@
   # Class Ability
   - name: "Arcane Bond (Sp)"
 
-  # Necromancy Arcane School
-  - name: "Grave Touch (Sp)"
+  # Necromancy Arcane School (Undead)
+  - name: "Bolster (Sp)"
 
-  # Necromancy Arcane School
+  # Necromancy Arcane School (Undead)
   - name: "Power over Undead (Su)"
