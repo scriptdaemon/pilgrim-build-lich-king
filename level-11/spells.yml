@@ -148,13 +148,13 @@
   #
 
   # Starting Spell
-  - name: "Chill Touch"
-
-  # Starting Spell
   - name: "Feather Fall"
 
   # Starting Spell
   - name: "Interrogation"
+
+  # Starting Spell
+  - name: "Itching Curse"
 
   # Starting Spell
   - name: "Mage Armor"
