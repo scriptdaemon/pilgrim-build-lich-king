@@ -53,6 +53,9 @@
   # 60 gp, 3 lbs.
   - name: "Alchemist Fire x3"
 
+  # 1 sp, -
+  - name: "Chalk x10"
+
   # 2 sp, 10 lbs.
   - name: "Folding Pole"
 
