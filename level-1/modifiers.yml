@@ -54,7 +54,7 @@
   - name: "Grooming Kit"
 
   # -, 6 lbs.
-  - name: "Scholar's Outfit"
+  - name: "Scholar’s Outfit"
 
   # 5 gp, 1 lb.
   - name: "Scroll Box"
@@ -69,4 +69,4 @@
   - name: "Waterproof Bag"
 
   # 21 gp, 21 lbs.
-  - name: "Wizard's Kit"
+  - name: "Wizard’s Kit"

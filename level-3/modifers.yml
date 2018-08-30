@@ -56,14 +56,11 @@
   # 2 sp, 10 lbs.
   - name: "Folding Pole"
 
-  # 1 gp, 4 lbs.
-  - name: "Grappling Hook, Common"
-
   # 1 gp, 2 lbs.
   - name: "Grooming Kit"
 
   # -, 6 lbs.
-  - name: "Scholar's Outfit"
+  - name: "Scholar’s Outfit"
 
   # 5 gp, 1 lb.
   - name: "Scroll Box"
@@ -78,7 +75,7 @@
   - name: "Waterproof Bag"
 
   # 21 gp, 21 lbs.
-  - name: "Wizard's Kit"
+  - name: "Wizard’s Kit"
 
   #
   # Magic Items
@@ -90,4 +87,8 @@
 
   # 2,000 gp, 5 lbs.
   - name: "Handy Haversack"
+    slot: "none"
+
+  # 250 gp, 2 lbs.
+  - name: "Traveler’s Any-Tool"
     slot: "none"
