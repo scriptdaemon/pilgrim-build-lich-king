@@ -62,6 +62,9 @@
   # 1 gp, 2 lbs.
   - name: "Grooming Kit"
 
+  # 100 gp, -
+  - name: "Potion of Cure Light Wounds x2"
+
   # -, 6 lbs.
   - name: "Scholar’s Outfit"
 
