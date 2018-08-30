@@ -50,11 +50,8 @@
   # Gear
   #
 
-  # 20 gp, 1 lb.
-  - name: "Alchemist Fire"
-
-  # 20 gp, 1 lb.
-  - name: "Alchemist Fire"
+  # 40 gp, 2 lbs.
+  - name: "Alchemist Fire x2"
 
   # 2 sp, 10 lbs.
   - name: "Folding Pole"
@@ -65,19 +62,16 @@
   # 1 gp, 2 lbs.
   - name: "Grooming Kit"
 
-  # free, 6 lbs.
+  # -, 6 lbs.
   - name: "Scholar's Outfit"
 
   # 5 gp, 1 lb.
   - name: "Scroll Box"
 
-  # 10 gp, 5 lbs.
-  - name: "Silk Rope"
+  # 20 gp, 10 lbs.
+  - name: "Silk Rope x2"
 
-  # 10 gp, 5 lbs.
-  - name: "Silk Rope"
-
-  # free, 3 lbs.
+  # -, 3 lbs.
   - name: "Spellbook"
 
   # 5 sp, 1/2 lb.
@@ -98,6 +92,6 @@
   - name: "Handy Haversack"
     slot: "none"
 
-  # 75 gp, n/a
+  # 75 gp, -
   - name: "Ioun Torch"
     slot: "none"

@@ -40,31 +40,29 @@
   - name: "Spell Focus (Necromancy)"
 
 #
-# Gear
+# Equipment
 #
 
-  # 20 gp, 1 lb.
-  - name: "Alchemist Fire"
+  #
+  # Gear
+  #
 
-  # 20 gp, 1 lb.
-  - name: "Alchemist Fire"
+  # 40 gp, 2 lbs.
+  - name: "Alchemist Fire x2"
 
   # 1 gp, 2 lbs.
   - name: "Grooming Kit"
 
-  # n/a, 6 lbs.
+  # -, 6 lbs.
   - name: "Scholar's Outfit"
 
   # 5 gp, 1 lb.
   - name: "Scroll Box"
 
-  # 10 gp, 5 lbs.
-  - name: "Silk Rope"
+  # 20 gp, 10 lbs.
+  - name: "Silk Rope x2"
 
-  # 10 gp, 5 lbs.
-  - name: "Silk Rope"
-
-  # n/a, 3 lbs.
+  # -, 3 lbs.
   - name: "Spellbook"
 
   # 5 sp, 1/2 lb.
