@@ -70,11 +70,3 @@
 
   # 21 gp, 21 lbs.
   - name: "Wizard's Kit"
-
-  #
-  # Magic Items
-  #
-
-  # 75 gp, -
-  - name: "Ioun Torch"
-    slot: "none"

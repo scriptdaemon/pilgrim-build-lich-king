@@ -91,7 +91,3 @@
   # 2,000 gp, 5 lbs.
   - name: "Handy Haversack"
     slot: "none"
-
-  # 75 gp, -
-  - name: "Ioun Torch"
-    slot: "none"
