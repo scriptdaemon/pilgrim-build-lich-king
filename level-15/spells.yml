@@ -174,16 +174,13 @@
   - name: "Dancing Lights"
 
   # Starting Spell
-  - name: "Detect Magic"
-
-  # Starting Spell
-  - name: "Detect Poison"
-
-  # Starting Spell
   - name: "Disrupt Undead"
 
   # Starting Spell
   - name: "Flare"
+
+  # Starting Spell
+  - name: "Ghost Sound"
 
   # Starting Spell
   - name: "Light"
@@ -205,9 +202,6 @@
 
   # Starting Spell
   - name: "Ray of Frost"
-
-  # Starting Spell
-  - name: "Read Magic"
 
   # Starting Spell
   - name: "Resistance"
