@@ -101,7 +101,7 @@
 
   # 1,000 gp, -
   - name: "Cloak of Resistance +1"
-    slot: "neck"
+    slot: "shoulders"
 
   # 200 gp, 1 lb.
   - name: "Sleeves of Many Garments"
