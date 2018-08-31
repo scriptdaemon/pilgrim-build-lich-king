@@ -52,6 +52,9 @@
   - name: "Command Undead"
 
   # Character Advancement
+  - name: "Extend Spell"
+
+  # Character Advancement
   - name: "Leadership"
 
   # Character Advancement
@@ -62,9 +65,6 @@
 
   # Character Advancement
   - name: "Spell Specialization (Animate Dead)"
-
-  # Character Advancement
-  - name: "Threnodic Spell"
 
   # Character Advancement
   - name: "Undead Master"

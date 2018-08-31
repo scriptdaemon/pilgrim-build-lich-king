@@ -55,7 +55,7 @@
   - name: "Charnel Soldiers"
 
   # Character Advancement
-  - name: "Craft Wondrous Item"
+  - name: "Extend Spell"
 
   # Character Advancement
   - name: "Leadership"
@@ -64,13 +64,13 @@
   - name: "Outflank"
 
   # Character Advancement
+  - name: "Piercing Spell"
+
+  # Character Advancement
   - name: "Spell Focus (Necromancy)"
 
   # Character Advancement
   - name: "Spell Specialization (Animate Dead)"
-
-  # Character Advancement
-  - name: "Threnodic Spell"
 
   # Character Advancement
   - name: "Undead Master"

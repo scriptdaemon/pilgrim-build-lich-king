@@ -52,10 +52,10 @@
   - name: "Command Undead"
 
   # Character Advancement
-  - name: "Spell Focus (Necromancy)"
+  - name: "Extend Spell"
 
   # Character Advancement
-  - name: "Threnodic Spell"
+  - name: "Spell Focus (Necromancy)"
 
   # Character Advancement
   - name: "Undead Master"
