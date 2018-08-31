@@ -35,10 +35,10 @@
   - name: "Speak with Animals"
 
   # Known Spell
-  - name: "Bane"
+  - name: "Cause Fear"
 
   # Known Spell
-  - name: "Cause Fear"
+  - name: "Curse Water"
 
   # Known Spell
   - name: "Detect Undead"
