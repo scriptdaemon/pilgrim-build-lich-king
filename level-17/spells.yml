@@ -150,13 +150,13 @@
   - name: "Repair Undead, Mass"
 
   # Known Spell
+  - name: "Contagion, Greater"
+
+  # Known Spell
   - name: "Ghoul Army"
 
   # Known Spell
   - name: "Slay Living"
-
-  # Known Spell
-  - name: "Unhallow"
 
   #
   # Level 6

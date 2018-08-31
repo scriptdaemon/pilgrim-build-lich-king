@@ -141,10 +141,10 @@
   - name: "Repair Undead, Mass"
 
   # Known Spell
-  - name: "Slay Living"
+  - name: "Ghoul Army"
 
   # Known Spell
-  - name: "Unhallow"
+  - name: "Slay Living"
 
   #
   # Level 6
