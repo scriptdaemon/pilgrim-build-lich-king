@@ -26,10 +26,10 @@
   - name: "Inflict Light Wounds"
 
   # Known Spell
-  - name: "Cause Fear"
+  - name: "Curse Water"
 
   # Known Spell
-  - name: "Detect Undead"
+  - name: "Infernal Healing"
 
 #
 # Wizard
