@@ -25,13 +25,13 @@
   - name: "Guidance"
 
   # Known Spell
-  - name: "Mending"
-
-  # Known Spell
   - name: "Read Magic"
 
   # Known Spell
   - name: "Resistance"
+
+  # Known Spell
+  - name: "Stabilize"
 
   #
   # Level 1
