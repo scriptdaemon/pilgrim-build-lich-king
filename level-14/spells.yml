@@ -197,6 +197,9 @@
   # Starting Spell
   - name: "Touch of Fatigue"
 
+  # Starting Spell (Memory)
+  - name: "Read Magic"
+
   #
   # Level 1
   #
