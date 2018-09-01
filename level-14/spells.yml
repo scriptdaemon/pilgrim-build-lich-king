@@ -75,10 +75,10 @@
   - name: "Death Knell"
 
   # Known Spell
-  - name: "Outbreak"
+  - name: "Remove Paralysis"
 
   # Known Spell
-  - name: "Remove Paralysis"
+  - name: "Unliving Rage"
 
   # Known Spell (Exchanged)
   - name: "Desecrate"
