@@ -13,9 +13,6 @@
   - name: "Create Water"
 
   # Known Spell
-  - name: "Detect Magic"
-
-  # Known Spell
   - name: "Guidance"
 
   # Known Spell
@@ -23,6 +20,9 @@
 
   # Known Spell
   - name: "Read Magic"
+
+  # Known Spell
+  - name: "Stabilize"
 
   #
   # Level 1

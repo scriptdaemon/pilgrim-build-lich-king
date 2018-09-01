@@ -7,9 +7,6 @@
   #
 
   # Known Spell
-  - name: "Bleed"
-
-  # Known Spell
   - name: "Create Water"
 
   # Known Spell
@@ -20,6 +17,9 @@
 
   # Known Spell
   - name: "Read Magic"
+
+  # Known Spell
+  - name: "Stabilize"
 
   #
   # Level 1

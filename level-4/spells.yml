@@ -7,16 +7,16 @@
   #
 
   # Known Spell
-  - name: "Bleed"
-
-  # Known Spell
   - name: "Create Water"
 
   # Known Spell
-  - name: "Guidance"
+  - name: "Purify Food and Drink"
 
   # Known Spell
-  - name: "Purify Food and Drink"
+  - name: "Read Magic"
+
+  # Known Spell
+  - name: "Stabilize"
 
   #
   # Level 1
