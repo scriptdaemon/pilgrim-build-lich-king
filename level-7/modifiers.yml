@@ -110,13 +110,21 @@
   - name: "Eyes of the Eagle"
     slot: "eyes"
 
-  # 9,000 gp, 1 lb.
-  - name: "Cloak of Resistance +3"
+  # 2,000 gp, -
+  - name: "Amulet of Natural Armor +1"
+    slot: "neck"
+
+  # 1,000 gp, 1 lb.
+  - name: "Cloak of Resistance +1"
     slot: "shoulders"
 
   # 1,000 gp, -
   - name: "Quick Runner’s Shirt"
     slot: "chest"
+
+  # 4,000 gp, 1 lb.
+  - name: "Belt of Incredible Dexterity +2"
+    slot: "belt"
 
   # 200 gp, 1 lb.
   - name: "Sleeves of Many Garments"
@@ -130,12 +138,28 @@
   - name: "Handy Haversack"
     slot: "none"
 
+  # 300 gp, -
+  - name: "Potion of Invisibility"
+    slot: "none"
+
+  # 150 gp, -
+  - name: "Scroll of Comprehend Languages"
+    slot: "none"
+
+  # 150 gp, -
+  - name: "Scroll of Delay Poison"
+    slot: "none"
+
   # 150 gp, -
   - name: "Scroll of Glitterdust"
     slot: "none"
 
   # 150 gp, -
   - name: "Scroll of Protection from Evil, Communal"
+    slot: "none"
+
+  # 150 gp, -
+  - name: "Scroll of Restoration, Lesser"
     slot: "none"
 
   # 500 gp, -
@@ -148,6 +172,10 @@
 
   # 750 gp, -
   - name: "Wand of Burning Hands"
+    slot: "none"
+
+  # 750 gp, -
+  - name: "Wand of Enlarge Person"
     slot: "none"
 
   # 750 gp, -

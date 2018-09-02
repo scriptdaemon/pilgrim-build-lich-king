@@ -62,9 +62,6 @@
   # 1 gp, 2 lbs.
   - name: "Grooming Kit"
 
-  # 50 gp, -
-  - name: "Potion of Cure Light Wounds"
-
   # -, 6 lbs.
   - name: "Scholar’s Outfit"
 
@@ -93,6 +90,10 @@
 
   # 2,000 gp, 5 lbs.
   - name: "Handy Haversack"
+    slot: "none"
+
+  # 50 gp, -
+  - name: "Potion of Cure Light Wounds"
     slot: "none"
 
   # 250 gp, 2 lbs.

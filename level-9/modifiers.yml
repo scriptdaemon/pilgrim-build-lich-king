@@ -182,5 +182,9 @@
     slot: "none"
 
   # 750 gp, -
+  - name: "Wand of Enlarge Person"
+    slot: "none"
+
+  # 750 gp, -
   - name: "Wand of Cure Light Wounds"
     slot: "none"

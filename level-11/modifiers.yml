@@ -176,6 +176,10 @@
   - name: "Scroll of Neutralize Poison"
     slot: "none"
 
+  # 150 gp, -
+  - name: "Scroll of Protection from Evil, Communal"
+    slot: "none"
+
   # 375 gp, -
   - name: "Scroll of Remove Curse"
     slot: "none"
@@ -188,6 +192,10 @@
   - name: "Scroll of Restoration"
     slot: "none"
 
+  # 5,000 gp, -
+  - name: "Ioun Stone, Dusty Rose Prism"
+    slot: "none"
+
   # 500 gp, -
   - name: "Ioun Stone, Dusty Rose Prism, Cracked"
     slot: "none"
@@ -198,6 +206,10 @@
 
   # 750 gp, -
   - name: "Wand of Burning Hands"
+    slot: "none"
+
+  # 750 gp, -
+  - name: "Wand of Enlarge Person"
     slot: "none"
 
   # 750 gp, -
