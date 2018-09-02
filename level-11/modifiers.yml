@@ -128,8 +128,8 @@
   - name: "Cloak of Resistance +3"
     slot: "shoulders"
 
-  # 1,000 gp, -
-  - name: "Quick Runner’s Shirt"
+  # 10,000 gp, -
+  - name: "Unfettered Shirt"
     slot: "chest"
 
   # 4,000 gp, 1 lb.
@@ -152,10 +152,6 @@
   - name: "Ring of Protection +1"
     slot: "ring"
 
-  # 12,000 gp, 1 lb.
-  - name: "Boots of Speed"
-    slot: "feet"
-
   # 2,500 gp, -
   - name: "Dweomer’s Essence x5"
     slot: "none"
@@ -164,40 +160,32 @@
   - name: "Handy Haversack"
     slot: "none"
 
-  # 700 gp, -
-  - name: "Scroll of Death Ward"
+  # 500 gp, -
+  - name: "Ioun Stone, Dusty Rose Prism, Cracked"
+    slot: "none"
+
+  # 300 gp, -
+  - name: "Potion of Invisibility"
+    slot: "none"
+
+  # 150 gp, -
+  - name: "Scroll of Comprehend Languages"
+    slot: "none"
+
+  # 150 gp, -
+  - name: "Scroll of Delay Poison"
     slot: "none"
 
   # 150 gp, -
   - name: "Scroll of Glitterdust"
     slot: "none"
 
-  # 700 gp, -
-  - name: "Scroll of Neutralize Poison"
-    slot: "none"
-
   # 150 gp, -
   - name: "Scroll of Protection from Evil, Communal"
     slot: "none"
 
-  # 375 gp, -
-  - name: "Scroll of Remove Curse"
-    slot: "none"
-
-  # 375 gp, -
-  - name: "Scroll of Remove Disease"
-    slot: "none"
-
-  # 700 gp, -
-  - name: "Scroll of Restoration"
-    slot: "none"
-
-  # 5,000 gp, -
-  - name: "Ioun Stone, Dusty Rose Prism"
-    slot: "none"
-
-  # 500 gp, -
-  - name: "Ioun Stone, Dusty Rose Prism, Cracked"
+  # 150 gp, -
+  - name: "Scroll of Restoration, Lesser"
     slot: "none"
 
   # 250 gp, 2 lbs.
@@ -209,9 +197,13 @@
     slot: "none"
 
   # 750 gp, -
-  - name: "Wand of Enlarge Person"
+  - name: "Wand of Cure Light Wounds"
     slot: "none"
 
   # 750 gp, -
-  - name: "Wand of Cure Light Wounds"
+  - name: "Wand of Enlarge Person"
+    slot: "none"
+
+  # 11,250 gp, -
+  - name: "Wand of Haste"
     slot: "none"

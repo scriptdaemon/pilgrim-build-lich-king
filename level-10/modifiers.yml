@@ -109,8 +109,8 @@
   - name: "Circlet of Persuasion"
     slot: "head"
 
-  # 16,000 gp, 1 lb.
-  - name: "Headband of Alluring Charisma +4"
+  # 4,000 gp, 1 lb.
+  - name: "Headband of Alluring Charisma +2"
     slot: "headband"
 
   # 2,500 gp, -
@@ -157,6 +157,18 @@
   - name: "Handy Haversack"
     slot: "none"
 
+  # 500 gp, -
+  - name: "Ioun Stone, Dusty Rose Prism, Cracked"
+    slot: "none"
+
+  # 300 gp, -
+  - name: "Potion of Invisibility"
+    slot: "none"
+
+  # 150 gp, -
+  - name: "Scroll of Comprehend Languages"
+    slot: "none"
+
   # 150 gp, -
   - name: "Scroll of Delay Poison"
     slot: "none"
@@ -169,20 +181,8 @@
   - name: "Scroll of Protection from Evil, Communal"
     slot: "none"
 
-  # 375 gp, -
-  - name: "Scroll of Remove Curse"
-    slot: "none"
-
-  # 375 gp, -
-  - name: "Scroll of Remove Disease"
-    slot: "none"
-
   # 150 gp, -
   - name: "Scroll of Restoration, Lesser"
-    slot: "none"
-
-  # 500 gp, -
-  - name: "Ioun Stone, Dusty Rose Prism, Cracked"
     slot: "none"
 
   # 250 gp, 2 lbs.
@@ -194,9 +194,13 @@
     slot: "none"
 
   # 750 gp, -
-  - name: "Wand of Enlarge Person"
+  - name: "Wand of Cure Light Wounds"
     slot: "none"
 
   # 750 gp, -
-  - name: "Wand of Cure Light Wounds"
+  - name: "Wand of Enlarge Person"
+    slot: "none"
+
+  # 11,250 gp, -
+  - name: "Wand of Haste"
     slot: "none"

@@ -111,6 +111,10 @@
   - name: "Handy Haversack"
     slot: "none"
 
+  # 500 gp, -
+  - name: "Ioun Stone, Dusty Rose Prism, Cracked"
+    slot: "none"
+
   # 150 gp, -
   - name: "Scroll of Comprehend Languages"
     slot: "none"
@@ -123,18 +127,14 @@
   - name: "Scroll of Protection from Evil, Communal"
     slot: "none"
 
-  # 500 gp, -
-  - name: "Ioun Stone, Dusty Rose Prism, Cracked"
-    slot: "none"
-
   # 250 gp, 2 lbs.
   - name: "Traveler’s Any-Tool"
     slot: "none"
 
   # 750 gp, -
-  - name: "Wand of Enlarge Person"
+  - name: "Wand of Cure Light Wounds"
     slot: "none"
 
   # 750 gp, -
-  - name: "Wand of Cure Light Wounds"
+  - name: "Wand of Enlarge Person"
     slot: "none"
