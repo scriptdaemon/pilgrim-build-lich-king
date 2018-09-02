@@ -182,6 +182,10 @@
   - name: "Ioun Stone, Dusty Rose Prism, Cracked"
     slot: "none"
 
+  # 4,000 gp, -
+  - name: "Ioun Stone, Eastern Star"
+    slot: "none"
+
   # 30,000 gp, -
   - name: "Ioun Stone, Orange Prism"
     slot: "none"
@@ -192,10 +196,6 @@
 
   # 1,125 gp, -
   - name: "Scroll of Breath of Life"
-    slot: "none"
-
-  # 150 gp, -
-  - name: "Scroll of Comprehend Languages"
     slot: "none"
 
   # 700 gp, -
