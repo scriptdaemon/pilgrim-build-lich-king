@@ -125,7 +125,7 @@
     slot: "shoulders"
 
   # 1,000 gp, n/a
-  - name: "Quick Runner's Shirt"
+  - name: "Quick Runner’s Shirt"
     slot: "chest"
 
   # 10,000 gp, 1 lb.
@@ -148,12 +148,20 @@
   - name: "Ring of Protection +1"
     slot: "ring"
 
+  # 2,500 gp, -
+  - name: "Dweomer’s Essence"
+    slot: "none"
+
   # 2,000 gp, 5 lbs.
   - name: "Handy Haversack"
     slot: "none"
 
   # 500 gp, -
   - name: "Ioun Stone, Dusty Rose Prism, Cracked"
+    slot: "none"
+
+  # 1,000 gp, -
+  - name: "Pearl of Power, 1st-Level Spell"
     slot: "none"
 
   # 4,000 gp, -
