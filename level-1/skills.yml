@@ -5,30 +5,30 @@ knowledge_arcana:
 
 knowledge_history:
   class: true
-  ability: 'itelligence'
+  ability: "itelligence"
   ranks: 1
 
 knowledge_local:
   class: true
-  ability: 'intelligence'
+  ability: "intelligence"
   ranks: 1
 
 knowledge_nobility:
   class: true
-  ability: 'intelligence'
+  ability: "intelligence"
   ranks: 1
 
 knowledge_religion:
   class: true
-  ability: 'intelligence'
+  ability: "intelligence"
   ranks: 1
 
 perception:
   class: false
-  ability: 'wisdom'
+  ability: "wisdom"
   ranks: 1
 
 spellcraft:
   class: true
-  ability: 'intelligence'
+  ability: "intelligence"
   ranks: 1

@@ -68,9 +68,6 @@
   # Gear
   #
 
-  # 40 gp, 2 lbs.
-  - name: "Alchemist Fire x2"
-
   # 1 sp, -
   - name: "Chalk x10"
 
@@ -106,10 +103,6 @@
   - name: "Headband of Alluring Charisma +2"
     slot: "headband"
 
-  # 2,000 gp, -
-  - name: "Amulet of Natural Armor +1"
-    slot: "neck"
-
   # 2,500 gp, -
   - name: "Eyes of the Eagle"
     slot: "eyes"
@@ -117,6 +110,10 @@
   # 1,000 gp, 1 lb.
   - name: "Cloak of Resistance +1"
     slot: "shoulders"
+
+  # 1,000 gp, -
+  - name: "Quick Runner’s Shirt"
+    slot: "chest"
 
   # 200 gp, 1 lb.
   - name: "Sleeves of Many Garments"
@@ -130,12 +127,24 @@
   - name: "Handy Haversack"
     slot: "none"
 
+  # 150 gp, -
+  - name: "Scroll of Glitterdust"
+    slot: "none"
+
+  # 150 gp, -
+  - name: "Scroll of Protection from Evil, Communal"
+    slot: "none"
+
   # 500 gp, -
   - name: "Ioun Stone, Dusty Rose Prism, Cracked"
     slot: "none"
 
   # 250 gp, 2 lbs.
   - name: "Traveler’s Any-Tool"
+    slot: "none"
+
+  # 750 gp, -
+  - name: "Wand of Burning Hands"
     slot: "none"
 
   # 750 gp, -

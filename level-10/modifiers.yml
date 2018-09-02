@@ -74,9 +74,6 @@
   # Gear
   #
 
-  # 40 gp, 2 lbs.
-  - name: "Alchemist Fire x2"
-
   # 1 sp, -
   - name: "Chalk x10"
 
@@ -108,28 +105,32 @@
   # Magic Items
   #
 
+  # 4,500 gp, -
+  - name: "Circlet of Persuasion"
+    slot: "head"
+
   # 16,000 gp, 1 lb.
   - name: "Headband of Alluring Charisma +4"
     slot: "headband"
-
-  # 2,000 gp, -
-  - name: "Amulet of Natural Armor +1"
-    slot: "neck"
 
   # 2,500 gp, -
   - name: "Eyes of the Eagle"
     slot: "eyes"
 
+  # 2,000 gp, -
+  - name: "Amulet of Natural Armor +1"
+    slot: "neck"
+
   # 9,000 gp, 1 lb.
   - name: "Cloak of Resistance +3"
     slot: "shoulders"
 
-  # 1,000 gp, n/a
+  # 1,000 gp, -
   - name: "Quick Runner’s Shirt"
     slot: "chest"
 
-  # 10,000 gp, 1 lb.
-  - name: "Belt of Physical Might +2"
+  # 4,000 gp, 1 lb.
+  - name: "Belt of Incredible Dexterity +2"
     slot: "belt"
 
   # 200 gp, 1 lb.
@@ -149,27 +150,43 @@
     slot: "ring"
 
   # 2,500 gp, -
-  - name: "Dweomer’s Essence"
+  - name: "Dweomer’s Essence x5"
     slot: "none"
 
   # 2,000 gp, 5 lbs.
   - name: "Handy Haversack"
     slot: "none"
 
+  # 150 gp, -
+  - name: "Scroll of Glitterdust"
+    slot: "none"
+
+  # 150 gp, -
+  - name: "Scroll of Delay Poison"
+    slot: "none"
+
+  # 375 gp, -
+  - name: "Scroll of Remove Curse"
+    slot: "none"
+
+  # 375 gp, -
+  - name: "Scroll of Remove Disease"
+    slot: "none"
+
+  # 150 gp, -
+  - name: "Scroll of Restoration, Lesser"
+    slot: "none"
+
   # 500 gp, -
   - name: "Ioun Stone, Dusty Rose Prism, Cracked"
     slot: "none"
 
-  # 1,000 gp, -
-  - name: "Pearl of Power, 1st-Level Spell"
-    slot: "none"
-
-  # 4,000 gp, -
-  - name: "Pearl of Power, 2nd-Level Spell"
-    slot: "none"
-
   # 250 gp, 2 lbs.
   - name: "Traveler’s Any-Tool"
+    slot: "none"
+
+  # 750 gp, -
+  - name: "Wand of Burning Hands"
     slot: "none"
 
   # 750 gp, -
