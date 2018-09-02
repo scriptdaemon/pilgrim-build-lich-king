@@ -102,13 +102,9 @@
   # Magic Items
   #
 
-  # 2,000 gp, -
-  - name: "Amulet of Natural Armor +1"
-    slot: "neck"
-
-  # 2,500 gp, -
-  - name: "Eyes of the Eagle"
-    slot: "eyes"
+  # 4,000 gp, 1 lb.
+  - name: "Headband of Alluring Charisma +2"
+    slot: "headband"
 
   # 1,000 gp, 1 lb.
   - name: "Cloak of Resistance +1"
