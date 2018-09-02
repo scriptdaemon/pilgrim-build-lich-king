@@ -105,10 +105,6 @@
   # Magic Items
   #
 
-  # 4,500 gp, n/a
-  - name: "Circlet of Persuasion"
-    slot: "head"
-
   # 4,000 gp, 1 lb.
   - name: "Headband of Alluring Charisma +2"
     slot: "headband"
@@ -121,8 +117,8 @@
   - name: "Eyes of the Eagle"
     slot: "eyes"
 
-  # 1,000 gp, 1 lb.
-  - name: "Cloak of Resistance +1"
+  # 9,000 gp, 1 lb.
+  - name: "Cloak of Resistance +3"
     slot: "shoulders"
 
   # 1,000 gp, n/a
@@ -136,10 +132,6 @@
   # 2,000 gp, -
   - name: "Gloves of Reconnaissance"
     slot: "hands"
-
-  # 2,000 gp, -
-  - name: "Rng of Protection +1"
-    slot: "ring"
 
   # 2,000 gp, 5 lbs.
   - name: "Handy Haversack"
