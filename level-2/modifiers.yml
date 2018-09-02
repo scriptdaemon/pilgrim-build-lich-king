@@ -78,6 +78,10 @@
   # Magic Items
   #
 
+  # 25 gp, -
+  - name: "Scroll of Protection from Evil"
+    slot: "none"
+
   # 50 gp, -
   - name: "Potion of Cure Light Wounds"
     slot: "none"

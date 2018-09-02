@@ -73,3 +73,11 @@
 
   # 21 gp, 21 lbs.
   - name: "Wizard’s Kit"
+
+  #
+  # Magic Items
+  #
+
+  # 25 gp, -
+  - name: "Scroll of Protection from Evil"
+    slot: "none"
