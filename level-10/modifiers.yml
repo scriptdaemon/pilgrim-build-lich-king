@@ -161,10 +161,6 @@
   - name: "Ioun Stone, Dusty Rose Prism, Cracked"
     slot: "none"
 
-  # 300 gp, -
-  - name: "Potion of Invisibility"
-    slot: "none"
-
   # 150 gp, -
   - name: "Scroll of Comprehend Languages"
     slot: "none"
@@ -175,6 +171,10 @@
 
   # 150 gp, -
   - name: "Scroll of Glitterdust"
+    slot: "none"
+
+  # 150 gp, -
+  - name: "Scroll of Invisibility"
     slot: "none"
 
   # 150 gp, -
