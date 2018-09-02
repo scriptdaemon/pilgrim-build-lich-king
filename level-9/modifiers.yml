@@ -65,3 +65,93 @@
 
   # Character Advancement
   - name: "Undead Master"
+
+#
+# Equipment
+#
+
+  #
+  # Gear
+  #
+
+  # 40 gp, 2 lbs.
+  - name: "Alchemist Fire x2"
+
+  # 1 sp, -
+  - name: "Chalk x10"
+
+  # 2 sp, 10 lbs.
+  - name: "Folding Pole"
+
+  # 1 gp, 2 lbs.
+  - name: "Grooming Kit"
+
+  # -, 6 lbs.
+  - name: "Scholar’s Outfit"
+
+  # 5 gp, 1 lb.
+  - name: "Scroll Box"
+
+  # 20 gp, 10 lbs.
+  - name: "Silk Rope x2"
+
+  # -, 3 lbs.
+  - name: "Spellbook"
+
+  # 5 sp, 1/2 lb.
+  - name: "Waterproof Bag"
+
+  # 21 gp, 21 lbs.
+  - name: "Wizard’s Kit"
+
+  #
+  # Magic Items
+  #
+
+  # 16,000 gp, 1 lb.
+  - name: "Headband of Alluring Charisma +4"
+    slot: "headband"
+
+  # 2,000 gp, -
+  - name: "Amulet of Natural Armor +1"
+    slot: "neck"
+
+  # 2,500 gp, -
+  - name: "Eyes of the Eagle"
+    slot: "eyes"
+
+  # 9,000 gp, 1 lb.
+  - name: "Cloak of Resistance +3"
+    slot: "shoulders"
+
+  # 1,000 gp, n/a
+  - name: "Quick Runner's Shirt"
+    slot: "chest"
+
+  # 10,000 gp, 1 lb.
+  - name: "Belt of Physical Might +2"
+    slot: "belt"
+
+  # 200 gp, 1 lb.
+  - name: "Sleeves of Many Garments"
+    slot: "wrists"
+
+  # 2,000 gp, -
+  - name: "Gloves of Reconnaissance"
+    slot: "hands"
+
+  # 2,000 gp, 5 lbs.
+  - name: "Handy Haversack"
+    slot: "none"
+
+  # 500 gp, -
+  - name: "Ioun Stone, Dusty Rose Prism, Cracked"
+    slot: "none"
+
+  # 250 gp, 2 lbs.
+  - name: "Traveler’s Any-Tool"
+    slot: "none"
+
+  # 750 gp, -
+  - name: "Wand of Cure Light Wounds"
+    slot: "none"
