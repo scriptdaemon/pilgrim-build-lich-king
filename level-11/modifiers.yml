@@ -112,8 +112,8 @@
   - name: "Circlet of Persuasion"
     slot: "head"
 
-  # 36,000 gp, 1 lb.
-  - name: "Headband of Alluring Charisma +6"
+  # 16,000 gp, 1 lb.
+  - name: "Headband of Alluring Charisma +4"
     slot: "headband"
 
   # 2,500 gp, -
@@ -152,6 +152,10 @@
   - name: "Ring of Protection +1"
     slot: "ring"
 
+  # 12,000 gp, 1 lb.
+  - name: "Boots of Speed"
+    slot: "feet"
+
   # 2,500 gp, -
   - name: "Dweomer’s Essence x5"
     slot: "none"
@@ -160,12 +164,16 @@
   - name: "Handy Haversack"
     slot: "none"
 
+  # 700 gp, -
+  - name: "Scroll of Death Ward"
+    slot: "none"
+
   # 150 gp, -
   - name: "Scroll of Glitterdust"
     slot: "none"
 
-  # 150 gp, -
-  - name: "Scroll of Delay Poison"
+  # 700 gp, -
+  - name: "Scroll of Neutralize Poison"
     slot: "none"
 
   # 375 gp, -
@@ -176,8 +184,8 @@
   - name: "Scroll of Remove Disease"
     slot: "none"
 
-  # 150 gp, -
-  - name: "Scroll of Restoration, Lesser"
+  # 700 gp, -
+  - name: "Scroll of Restoration"
     slot: "none"
 
   # 500 gp, -
