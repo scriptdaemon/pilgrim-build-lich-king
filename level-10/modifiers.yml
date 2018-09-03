@@ -55,9 +55,6 @@
   - name: "Extend Spell"
 
   # Character Advancement
-  - name: "Leadership"
-
-  # Character Advancement
   - name: "Spell Focus (Necromancy)"
 
   # Character Advancement
@@ -65,6 +62,9 @@
 
   # Character Advancement
   - name: "Undead Master"
+
+  # Character Advancement
+  - name: "Vile Leadership"
 
 #
 # Equipment

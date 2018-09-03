@@ -61,9 +61,6 @@
   - name: "Extend Spell"
 
   # Character Advancement
-  - name: "Leadership"
-
-  # Character Advancement
   - name: "Outflank"
 
   # Character Advancement
@@ -80,3 +77,6 @@
 
   # Character Advancement
   - name: "Undead Master"
+
+  # Character Advancement
+  - name: "Vile Leadership"
