@@ -73,10 +73,6 @@
 # Equipment
 #
 
-  #
-  # Gear
-  #
-
   # 1 sp, -
   - name: "Chalk x10"
 
@@ -104,9 +100,9 @@
   # 21 gp, 21 lbs.
   - name: "Wizard’s Kit"
 
-  #
-  # Magic Items
-  #
+#
+# Magic Items
+#
 
   # 4,500 gp, -
   - name: "Circlet of Persuasion"

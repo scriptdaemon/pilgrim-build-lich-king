@@ -46,10 +46,6 @@
 # Equipment
 #
 
-  #
-  # Gear
-  #
-
   # 40 gp, 2 lbs.
   - name: "Alchemist Fire x2"
 
@@ -80,9 +76,9 @@
   # 21 gp, 21 lbs.
   - name: "Wizard’s Kit"
 
-  #
-  # Magic Items
-  #
+#
+# Magic Items
+#
 
   # 200 gp, 1 lb.
   - name: "Sleeves of Many Garments"
