@@ -61,9 +61,6 @@
 # Equipment
 #
 
-  # 40 gp, 2 lbs.
-  - name: "Alchemist Fire x2"
-
   # 1 sp, -
   - name: "Chalk x10"
 
@@ -95,20 +92,12 @@
 # Magic Items
 #
 
-  # 1,000 gp, 1 lb.
-  - name: "Cloak of Resistance +1"
-    slot: "shoulders"
-
   # 200 gp, 1 lb.
   - name: "Sleeves of Many Garments"
     slot: "wrists"
 
   # 2,000 gp, 5 lbs.
   - name: "Handy Haversack"
-    slot: "none"
-
-  # 500 gp, -
-  - name: "Ioun Stone, Dusty Rose Prism, Cracked"
     slot: "none"
 
   # 150 gp, -
@@ -123,8 +112,16 @@
   - name: "Scroll of Protection from Evil, Communal"
     slot: "none"
 
+  # 25 gp, -
+  - name: "Scroll of Remove Fear"
+    slot: "none"
+
   # 250 gp, 2 lbs.
   - name: "Traveler’s Any-Tool"
+    slot: "none"
+
+  # 750 gp, -
+  - name: "Wand of Burning Hands"
     slot: "none"
 
   # 750 gp, -
